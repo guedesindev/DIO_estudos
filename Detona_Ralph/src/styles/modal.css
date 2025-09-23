@@ -1,0 +1,50 @@
+.modal{
+    position: absolute;
+    margin: 1rem auto;
+    width: 50%;
+    height: 50%;
+    background-image: linear-gradient(45deg, #493a2c, #d0aeae, #493a2c);
+    border: 5px solid #daa520;
+    border-radius: 1rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.modal h1{
+    font-size: 3rem;
+    color: rgba(211, 12, 12, .8)
+}
+
+.modal p{
+    color: #FFFFFFA0;
+    font-size: 2rem
+
+}
+
+.modal p >span{
+    font-size: 3rem;
+    font-style: bold;
+    color: #FFFFFFF0;
+    text-shadow: 2px 5px rgba(255, 255, 255, .6);
+}
+
+.close{
+    font-weight: bold;
+    font-size: 2rem;
+    width: fit-content;
+    height: fit-content;
+    padding: .8rem;
+    border-radius: 50%;
+    border: 5px solid goldenrod;
+    background-image: linear-gradient(#493a2c, #d0aeae, #493a2c);
+    position: absolute;
+    top:-2rem;
+    right: -2rem;
+    color: rgba(211, 12,12, .8)
+}
+
+.hide{
+    display: none;
+}

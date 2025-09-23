@@ -1,0 +1,99 @@
+@import url('./reset.css');
+@import url('./modal.css');
+
+body {
+    background-color: #000000DE;
+}
+
+.conteiner{
+    height: 100vh;
+}
+
+.menu{
+    height: 15%;
+    color: #FFFFFF89;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu div{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 1rem auto;
+}
+
+
+.menu > .life{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}
+
+.life img{
+    width: 64px;
+}
+
+.panel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 2;
+    background-image: url('../images/wall.png');
+    border-top: 5px solid #ffd700C0;
+}
+
+.squares{
+    display: flex;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(90, 232, 185, .6);
+    filter: blur(1px);
+}
+
+.enemy{
+    background-image: url('../images/ralph.png');
+    background-size: 265px;
+    background-position: 50%;
+    animation: ralph .8s infinite alternate;
+}
+
+@keyframes ralph{
+    0% {
+        background-size: 270px;
+        background-position: 55%;
+    }
+    25% {
+        background-size: 300px;
+        background-position: 50%;
+    }
+
+    50%{
+        background-size: 270px;
+        background-position: 45%;
+    }
+    75%{
+        background-size: 300px;
+        background-position: 50%;
+    }
+
+    100% {
+        background-size: 270px;
+        background-position: 55%;
+    }
+}
+
+.level{
+    color: #FFFFFF80;
+    text-align: center;
+    margin: 1rem auto;
+}
+
+#span-level{
+    font-style: italic;
+}

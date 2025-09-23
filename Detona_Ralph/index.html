@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Settings -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Detona Ralph</title>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Press+Start+2P&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="./src/styles/main.css">
+</head>
+<body>
+    <div class="conteiner">
+        <div class="menu">
+            <div class="timer">
+                <h2 class="time-label">Time Left</h2>
+                <h2 class="time">0</h2>
+            </div>
+            <div class="score">
+                <h2 class="score-label">Score</h2>
+                <h2 class="score-player">0</h2>
+            </div>
+            <div class="life">
+                <img src="./src/images/player.png" alt="icone do player. Representa a quantidade de vidas restantes do player.">
+                <h2 class="lifes">x3</h2>
+            </div>
+        </div>
+        <div class="panel">
+            <div class="squares">
+                <div class="square" id="0"></div>
+                <div class="square" id="1"></div>
+                <div class="square" id="2"></div>
+            </div>
+            <div class="squares">
+                <div class="square" id="3"></div>
+                <div class="square" id="4"></div>
+                <div class="square" id="5"></div>
+            </div>
+            <div class="squares">
+                <div class="square" id="6"></div>
+                <div class="square" id="7"></div>
+                <div class="square" id="8"></div>
+            </div>
+        </div>
+        <div class="level">
+            <p>level - <span id="span-level">0</span></p>
+        </div>
+    </div>
+    <script defer src="./src/scripts/engine.js"></script>
+</body>
+</html>
