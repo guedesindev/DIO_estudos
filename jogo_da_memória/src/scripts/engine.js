@@ -3,7 +3,7 @@ const state = {
         container: document.querySelector('.container'),
         tabuleiro: document.querySelector('.tabuleiro'),
         timer: document.createElement('div'),
-        emojis: ["😺", "😺", "🐵", "🐵","🐶","🐶","🦁","🦁","🐯","🐯","🐻","🐻","🦁","🦁", "🐮", "🐮"]
+        emojis: ["😺", "😺", "🐵", "🐵","🐶","🐶","🦁","🦁","🐯","🐯","🐻","🐻","🐸","🐸", "🐮", "🐮"]
     },
     values: {
         currentTime: 60, 
