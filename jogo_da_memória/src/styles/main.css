@@ -1,0 +1,164 @@
+@import url('./reset.css');
+
+body{
+   background: #fc1e8a;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.875em;
+    padding: 2.5em 3.75em;
+    background: #433a4f;
+    background: linear-gradient(90deg, rgba(67, 58, 79, 1) 0%, rgba(100, 51, 138, 1) 30%, rgba(125, 31, 196, 1) 60%, rgba(182, 113, 235, 1) 100%);
+    box-shadow: 0 0 2em .5em rgba(100, 51, 138, .8);
+    border-radius: .5em;
+}
+
+.cabecalho{
+   font-size: 3em;
+   color: #fff;
+   text-transform: uppercase;
+   letter-spacing: 0.1em;
+}
+
+.tabuleiro{
+    width: 26.8em;
+    height: 26.8em;   
+    display: flex;
+    flex-wrap: wrap;
+    gap: .8em;
+    transform-style: preserve-3d;
+    perspective: 31.25em;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    gap: .5em;
+}
+
+.card, .card-open{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    background: #d4cabc;
+}
+
+.card{
+    transform: rotateY(180deg);
+    transition: 0.25s;
+}
+
+.card::after{
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: #404010;
+    transform: rotateY(0deg);
+    transition: 0.25s;
+    backface-visibility: hidden;   
+}
+
+/* .card.card-open{
+    transform: rotateY(0deg);
+    transition: 0.25s;
+} */
+
+button{
+    padding: 1rem 1.5rem;
+    border-radius: .5rem;
+    border: none;
+    outline: none;
+    font-weight: 600;
+    letter-spacing: .1em;
+    width: 20rem;
+    text-transform: uppercase;
+}
+
+button:focus{
+    background-color: #fc1e8a;
+    color: #FFF;
+}
+
+button:hover{
+    box-shadow: inset -.1rem -.2rem .5rem rgba(74, 5, 126, 0.7);
+    text-shadow: .1rem .1rem .2rem rgba(74, 5, 126, 0.7);
+    font-weight: 600;
+}
+
+.card-open{    
+    transform: rotateY(0deg);
+    transition: 0.25s
+}
+
+.card-open::after,
+.card-match::after{
+    transform: rotateY(180deg);
+    transition: 0.25s;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 200,
+    'GRAD' 0,
+    'opsz' 24
+}
+
+.audio{
+    position: absolute;
+    color: #ffffff;
+    top: 1rem;
+    right: 1rem;
+}
+
+.close-modal{
+    position: absolute;
+    top: -.5rem;
+    right: -10px;
+    color: red;
+    border-radius: 50%;
+    background: #ffffff;
+    padding: .3rem;
+    box-shadow: 0 0 .5rem .4rem rgba(248, 238, 255, 0.8)
+}
+
+.span-modal{
+    letter-spacing: .03rem;
+    line-height: 1.5rem;
+    position: absolute;
+    margin: auto;
+    width: 80%;
+    top: 50%;    
+    right: 50%;
+    border: 1px solid white;
+    transform: translate(50%,-50%);
+}
+
+.modal{
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    margin: auto;
+    background-color: #d4cabc;
+    border-radius: .5rem;
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.hide {
+    display: none;
+}
