@@ -5,7 +5,9 @@
 ## Neste código segui os padrões de desenvolvimento apresentado na aula, fiz algumas personificações:
 
 - Incluindo:
+
 -- Adição de áudio durante a gameplay
+
 -- Adição de áudio de triunfo, quando o gamer acerta todos os cards.
 
 ---
