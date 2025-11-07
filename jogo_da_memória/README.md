@@ -24,7 +24,7 @@ Você pode clonar o repositório, e executar o index.html.
 ## Créditos
 
 Código original desenvolvido em aula com o professor; Filipe Águiar, no curso de lógica de programação que está sendo aproveitado no Bootcamp da RiHappy em parceria com a DIO
-Audios baixados pelo site ![Epidemic Sound][def2] e ![music.apple.com][def]
+Audios baixados pelo site [Epidemic Sound][def2] e ![music.apple.com][def]
 
 [def]: https://music.apple.com/br/song/wiinner-victory-demo/1142080299
 [def2]: https://www.epidemicsound.com/music/themes/gaming/
