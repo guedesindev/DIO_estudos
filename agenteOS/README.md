@@ -20,9 +20,11 @@ A tecnologia que gerencia o agente é [Agno](https://www.agno.com/). Dentro da f
  - [DuckDuckGo](https://docs.agno.com/integrations/toolkits/search/duckduckgo) utilizado como buscador de informações na web.
 
 *Observação*: Dois Modelos de LLM estão sendo utilizados pensando na contingência, caso um esteja indisponível, o outro será executado automaticamente.
+</br>
 
-<div style="display:flex; align-items:center">
+<div style="display:flex;flex-direction:column; align-items:center">
 <span>desenvolvido com:</span>
+
 <a href="https://github.com/agno-agi/agno/tree/main">
 <picture> 
       <source width=120 media="(prefers-color-scheme: dark)" srcset="https://agno-public.s3.us-east-1.amazonaws.com/assets/logo-dark.svg">
@@ -31,14 +33,20 @@ A tecnologia que gerencia o agente é [Agno](https://www.agno.com/). Dentro da f
 </picture>
 </a>
 </div>
+<br>
+
+<div style="display:flex; justify-content:center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
-
-
+</div>
 
 
 
@@ -104,15 +112,16 @@ Da um ⭐
 
 Se quiser contato comigo me procure em:
 
+<div style="display:flex; align-items:center; justify-content:center">
 
 <a diplay="inline-block" href="https://www.linkedin.com/in/fernandoguedesdev/">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoguedesdev/)</a>
 <a diplay="inline-block" href="https://github.com/guedesindev">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </a>
 <a diplay="inline-block" hfef="mailto:guedesindev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
+</div>
 
 Até mais 🙋🏽
 
-<p align="left">
+<p style="text-align:left">
   <a href="#top">⬆️ Back to Top</a>
 </p>
