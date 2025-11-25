@@ -4,23 +4,43 @@ Se você é iniciante em programação ou está tentando fazer a migração de �
 
 A ideia é oferecer auxilio na preparação para entrevistas e com introdução ao pensamento computacional.
 
+
 ## 🎯 Objetivo 
 
 Ajudar o usuário iniciante a aprender programação do zero ou então prepará-lo para entrevistas de emprego na área dev.
 
-
-
 ---
 ## Tecnologias
-este projeto foi desenvolvido na linguagem python, na IDE vscode e com ajuda da LLM Gemini.
+Este projeto foi desenvolvido na linguagem python, na IDE vscode e com ajuda da LLM Gemini.
 A tecnologia que gerencia o agente é [Agno](https://www.agno.com/). Dentro da ferramenta Agno há várias opções, para este projeto foi utilizado:
- - [!agenteOS](https://docs.agno.com/agent-os/introduction). A quantidade de opções para desenvolvimento surpreende;
- - [!Agente](https://docs.agno.com/reference/agents/agent) do Agno;
- - [!Modelo Gemini](https://docs.agno.com/reference/models/gemini);
- - [!OpenAIChat](https://docs.agno.com/reference/models/openai);
- - [!DuckDuckGo](https://docs.agno.com/integrations/toolkits/search/duckduckgo) utilizado como buscador de informações na web.
+ - [agenteOS](https://docs.agno.com/agent-os/introduction). A quantidade de opções para desenvolvimento surpreende;
+ - [Agente](https://docs.agno.com/reference/agents/agent) do Agno;
+ - [Modelo Gemini](https://docs.agno.com/reference/models/gemini);
+ - [OpenAIChat](https://docs.agno.com/reference/models/openai);
+ - [DuckDuckGo](https://docs.agno.com/integrations/toolkits/search/duckduckgo) utilizado como buscador de informações na web.
 
 *Observação*: Dois Modelos de LLM estão sendo utilizados pensando na contingência, caso um esteja indisponível, o outro será executado automaticamente.
+
+<div style="display:flex; align-items:center">
+<span>desenvolvido com:</span>
+<a href="https://github.com/agno-agi/agno/tree/main">
+<picture> 
+      <source width=120 media="(prefers-color-scheme: dark)" srcset="https://agno-public.s3.us-east-1.amazonaws.com/assets/logo-dark.svg">
+      <source width=40 media="(prefers-color-scheme: light)" srcset="https://agno-public.s3.us-east-1.amazonaws.com/assets/logo-light.svg">
+      <img width=120 src="https://agno-public.s3.us-east-1.amazonaws.com/assets/logo-light.svg" alt="Agno">
+</picture>
+</a>
+</div>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+
+
+
+
 
 ## 👩🏽‍💻 Como usar?
 
@@ -76,3 +96,23 @@ _Ao salvar o arquivo já pode executar o projeto._
     # WINDOWS
     python main.py
 ```
+
+😉 Obrigado por testar esta aplicação.
+
+Agora quero saber a tua opinião: 
+Da um ⭐
+
+Se quiser contato comigo me procure em:
+
+
+<a diplay="inline-block" href="https://www.linkedin.com/in/fernandoguedesdev/">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoguedesdev/)</a>
+<a diplay="inline-block" href="https://github.com/guedesindev">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</a>
+<a diplay="inline-block" hfef="mailto:guedesindev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+
+Até mais 🙋🏽
+
+<p align="left">
+  <a href="#top">⬆️ Back to Top</a>
+</p>
