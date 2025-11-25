@@ -8,9 +8,7 @@ A ideia é oferecer auxilio na preparação para entrevistas e com introdução 
 
 Ajudar o usuário iniciante a aprender programação do zero ou então prepará-lo para entrevistas de emprego na área dev.
 
-## 👩🏽‍💻 Como usar?
 
-A primeira coisa é fazer o fork ou o clone do repositório. Depois de estar com o repositório no teu computador basta navegar até o diretório criado pelo prompt/terminal e proceder criar um ambiente virtual e realizar a instalação das dependências.
 
 ---
 ## Tecnologias
@@ -23,6 +21,11 @@ A tecnologia que gerencia o agente é [Agno](https://www.agno.com/). Dentro da f
  - [!DuckDuckGo](https://docs.agno.com/integrations/toolkits/search/duckduckgo) utilizado como buscador de informações na web.
 
 *Observação*: Dois Modelos de LLM estão sendo utilizados pensando na contingência, caso um esteja indisponível, o outro será executado automaticamente.
+
+## 👩🏽‍💻 Como usar?
+
+A primeira coisa é fazer o fork ou o clone do repositório. Depois de estar com o repositório no teu computador basta navegar até o diretório criado pelo prompt/terminal e proceder criar um ambiente virtual e realizar a instalação das dependências.
+
 ---
 
 ### Iniciando o ambiente virtual
@@ -48,6 +51,15 @@ A tecnologia que gerencia o agente é [Agno](https://www.agno.com/). Dentro da f
 ```
 
 Agora que esta com o ambiente virtual ativado poderá instalar as dependências do projeto sem afetar o teu ambiente atual.
+
+**observação2**: Para você testar a aplicação precisa gerar tuas Api Keys nas plataformas [Google Gemini](https://aistudio.google.com/app/api-keys) e [OpenAiGPT](https://platform.openai.com/api-keys). É gratis a geração e uso da chave até um determinado uso, pesquise em cada LLM para mais informações.
+
+**O que fazer com as API KEY?**
+Você precisa criar um arquivo na raiz do projeto e nomeá-lo como `.env`, e adicionar as chaves: <br>
+`export GOOGLE_API_KEY`="tua_chave_api_entre_aspas"<br>
+`export OPENAI_API_KEY`="tua_chave_api_entre_aspas"
+
+_Ao salvar o arquivo já pode executar o projeto._
 
 **Instalando as dependências do projeto**
 
