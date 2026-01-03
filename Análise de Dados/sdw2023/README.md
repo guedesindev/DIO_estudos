@@ -18,6 +18,8 @@ Havia uma API criada anteriormente (2023) que serviria como fonte de dados dos c
 
 </div>
 
+Também utilizei o ![TQDM](https://github.com/tqdm/tqdm) para gerar a barra de progresso
+
 ### 📖 Minha Lista de Clientes
 
 Para criar a lista de clientes e não ter de ficar alimentando tal lista manualmente, eu criei um script python que gera automaticamente uma relação de 1000 clientes, gerando nomes automáticos com sobrenomes, cpfs fictícios, e-mail igualmente fictícios, números de agência e conta, categorias de contas, cartões. 

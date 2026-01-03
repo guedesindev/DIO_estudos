@@ -121,9 +121,11 @@ MENSAGENS_POOL = {
 }
 
 import random
+from time import sleep
 
 
 def obter_noticia_dinamica(row):
+    sleep(0.1)
     nome = row["nome"].split()[0]
     tipo = row["tipo_cartao"]
     limite = row["limite_cartao"]
