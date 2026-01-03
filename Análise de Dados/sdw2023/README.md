@@ -1,14 +1,26 @@
 # ETL com Python
 
 
-## Proposição
+## 🚀 Proposição
 Como cientistas de dados nos fora passada uma lista de ids de clientes do banco para que fossem criadas mensagens automáticas via IA e enviadas para o e-mail do cliente.
 
-## Minha Composição
+## ⚙️ Minha Composição
 
 Havia uma API criada anteriormente (2023) que serviria como fonte de dados dos clientes, pesquisa de seus nomes, com base na lista de ids passadas. Entretanto, hoje a API não está disponível, assim sendo, criei a minha própria fonte de dados de clientes.
 
-### Minha Lista de Clientes
+**TECNOLOGIAS UTILIZADAS**
+
+<div style="display: flex; justify-content: center">
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+### 📖 Minha Lista de Clientes
 
 Para criar a lista de clientes e não ter de ficar alimentando tal lista manualmente, eu criei um script python que gera automaticamente uma relação de 1000 clientes, gerando nomes automáticos com sobrenomes, cpfs fictícios, e-mail igualmente fictícios, números de agência e conta, categorias de contas, cartões. 
 
@@ -19,7 +31,7 @@ Estou disponibilizando neste repositório o código do script. Para executá-lo 
 Aqui criei arquivos separados para Extrat, Transform e Load. Para dar soporte a estes processos criei arquivos auxiliares como messages.py, gerador.py.
 O desafio consiste em ler o arquivo `ids.csv`, criar uma lista de ids a partir deste arquivo, buscar os clientes na base: `clientes.csv`, e ao localizar seu id, verificar a categoria de sua conta, cartão de crédito que possui e limite, esses dados são utilizados para categorizar as mensagens que estão no arquivo message.py. Em posse dos ids e dos dados dos clientes, as mensagens são geradas e um arquivo `news.csv` é gerado. Deste arquivo, o conteúdo está pronto para ser envidado.
 
-### Dificuldades
+### 🤔 Dificuldades
 
 Como já havia dito, a API não estava mais disponível, então tive de criar uma nova abordagem para o exercício.
 
@@ -47,6 +59,15 @@ Seguir os passos:
     # LINUX/MAC
     source venv/bin/activate
 ```
+
+**⚠️ Importante:**
+
+Quando você cria o ambiente virtual com o método acima, por agora, o pip do ambiente virtual vem desatualizado, versão=25.2. Antes de proceder com as instalações das dependências é interessante que a versão do pip seja atualizada por meio do comando:
+```python
+    python -m pip install --upgrade pip
+```
+Agora sim o teu ambiente pode ter as dependências instaladas.
+
  **Instalar as dependências**
 
  ```python
@@ -56,6 +77,8 @@ Seguir os passos:
  ```
 
  Agora pode executar os scripts
+
+ 
  **Gerador de Clientes**
  ```python
      # WINDOWS
