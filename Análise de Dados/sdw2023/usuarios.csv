@@ -1,0 +1,1001 @@
+id_usuario;nome;cpf;email;tipo_conta;agencia;numero_conta;limite_especial;tipo_cartao;final_cartao;limite_cartao
+1;Ricardo Santos;341.794.473-27;ricardo.santos@email.com;Poupanca;0004;73982-7;0.0;Débito;4473;0.0
+2;Lucas Oliveira;194.483.346-92;lucas.oliveira@email.com;Universitária;0001;98157-6;0.0;Crédito Infinite;6198;5843.33
+3;Lucas Souza;941.177.617-37;lucas.souza@email.com;Universitária;0004;13385-5;0.0;Crédito Platinum;5465;46868.44
+4;Ricardo Almeida;678.614.202-24;ricardo.almeida@email.com;Poupanca;0007;35181-7;0.0;Crédito Platinum;1566;47856.89
+5;Ricardo Oliveira;651.778.776-30;ricardo.oliveira@email.com;Poupanca;0007;85624-3;0.0;Débito;6440;0.0
+6;Ricardo Santos;374.607.341-68;ricardo.santos@email.com;Corrente;0004;44700-4;1590.44;Crédito Platinum;2619;31448.39
+7;Juliana Souza;754.102.601-81;juliana.souza@email.com;Universitária;0002;40458-5;0.0;Crédito Black;1775;42688.04
+8;Ricardo Costa;897.343.538-10;ricardo.costa@email.com;Poupanca;0001;81487-2;0.0;Crédito Black;3060;23070.39
+9;João Silva;175.795.773-22;joão.silva@email.com;Corrente;0009;81347-9;3794.62;Débito;9052;0.0
+10;Patrícia Costa;565.227.916-45;patrícia.costa@email.com;Poupanca;0008;12877-5;0.0;Crédito Black;8384;19241.69
+11;Maria Ferreira;557.826.997-57;maria.ferreira@email.com;Poupanca;0008;17239-5;0.0;Crédito Infinite;4116;40684.51
+12;Juliana Souza;711.494.759-43;juliana.souza@email.com;Universitária;0007;56982-8;0.0;Crédito Black;6811;22493.95
+13;João Ferreira;278.350.193-37;joão.ferreira@email.com;Poupanca;0001;94368-1;0.0;Crédito Infinite;9679;35187.65
+14;Patrícia Nascimento;153.615.257-94;patrícia.nascimento@email.com;Corrente;0001;60001-9;1980.96;Crédito Infinite;7490;38037.11
+15;João Nascimento;549.148.458-12;joão.nascimento@email.com;Corrente;0005;80768-4;2398.22;Crédito Infinite;1054;10626.19
+16;Patrícia Silva;455.896.328-22;patrícia.silva@email.com;Corrente;0009;73713-8;838.94;Débito;4334;0.0
+17;Ana Ferreira;258.870.357-89;ana.ferreira@email.com;Corrente;0002;47019-6;4013.68;Crédito Platinum;3117;41115.38
+18;Lucas Silva;435.391.607-76;lucas.silva@email.com;Poupanca;0007;80901-9;0.0;Crédito Black;5179;40710.38
+19;Maria Almeida;844.474.681-71;maria.almeida@email.com;Corrente;0004;66217-8;323.03;Débito;6302;0.0
+20;Maria Ferreira;683.223.454-11;maria.ferreira@email.com;Corrente;0006;92978-3;3494.93;Crédito Platinum;1541;18251.04
+21;Ricardo Oliveira;537.615.325-37;ricardo.oliveira@email.com;Universitária;0004;85770-8;0.0;Crédito Black;7216;25597.09
+22;Patrícia Ferreira;244.746.442-67;patrícia.ferreira@email.com;Corrente;0010;77303-7;2957.23;Débito;9658;0.0
+23;Maria Ferreira;661.464.391-14;maria.ferreira@email.com;Poupanca;0004;12195-4;0.0;Débito;5103;0.0
+24;Fernando Pereira;981.906.904-60;fernando.pereira@email.com;Poupanca;0009;26388-1;0.0;Crédito Platinum;6082;10341.62
+25;Carlos Ferreira;357.115.311-77;carlos.ferreira@email.com;Poupanca;0005;69433-4;0.0;Crédito Infinite;5135;6464.01
+26;Juliana Costa;585.486.249-11;juliana.costa@email.com;Corrente;0009;34076-1;959.04;Crédito Infinite;8107;27134.05
+27;Ana Almeida;180.567.919-59;ana.almeida@email.com;Corrente;0006;72077-3;4067.14;Débito;1557;0.0
+28;Fernando Almeida;875.647.728-83;fernando.almeida@email.com;Universitária;0009;12756-0;0.0;Crédito Infinite;9309;30944.55
+29;Ricardo Santos;369.766.614-82;ricardo.santos@email.com;Corrente;0008;78528-7;2821.36;Crédito Black;1808;47113.06
+30;Fernando Silva;230.422.702-70;fernando.silva@email.com;Corrente;0001;20094-5;2438.16;Débito;7042;0.0
+31;Patrícia Silva;785.320.902-39;patrícia.silva@email.com;Poupanca;0006;95667-0;0.0;Crédito Infinite;5524;37416.17
+32;Lucas Santos;813.725.783-17;lucas.santos@email.com;Corrente;0003;40206-9;4157.33;Crédito Platinum;5448;1985.54
+33;Juliana Almeida;394.434.436-34;juliana.almeida@email.com;Universitária;0009;88751-1;0.0;Débito;8088;0.0
+34;Ana Oliveira;872.728.262-77;ana.oliveira@email.com;Poupanca;0009;18489-4;0.0;Crédito Platinum;9890;6368.07
+35;Ana Santos;743.864.837-18;ana.santos@email.com;Corrente;0002;82795-4;2875.9;Crédito Infinite;1985;9385.44
+36;Ana Pereira;577.762.676-19;ana.pereira@email.com;Universitária;0010;28547-9;0.0;Crédito Black;3108;12468.24
+37;Lucas Oliveira;559.805.737-12;lucas.oliveira@email.com;Poupanca;0006;50673-1;0.0;Crédito Black;5451;24550.09
+38;João Ferreira;998.106.142-95;joão.ferreira@email.com;Corrente;0003;34680-4;29.85;Crédito Black;3660;34761.77
+39;Carlos Costa;260.528.825-14;carlos.costa@email.com;Universitária;0008;78140-7;0.0;Crédito Infinite;2425;49623.75
+40;Ana Ferreira;765.961.164-29;ana.ferreira@email.com;Corrente;0002;89472-4;2195.56;Crédito Platinum;4712;6473.48
+41;Ricardo Costa;520.721.403-65;ricardo.costa@email.com;Universitária;0004;37121-6;0.0;Crédito Platinum;7208;19460.9
+42;Fernando Oliveira;905.677.405-50;fernando.oliveira@email.com;Poupanca;0003;39056-3;0.0;Débito;8146;0.0
+43;João Oliveira;745.190.110-42;joão.oliveira@email.com;Poupanca;0003;57596-3;0.0;Crédito Platinum;1074;42227.96
+44;Maria Almeida;214.262.603-87;maria.almeida@email.com;Poupanca;0008;85984-2;0.0;Crédito Infinite;8008;18071.84
+45;Lucas Nascimento;423.651.974-80;lucas.nascimento@email.com;Corrente;0004;38933-3;4445.8;Crédito Platinum;1801;16724.81
+46;Carlos Costa;177.289.401-55;carlos.costa@email.com;Poupanca;0009;37271-6;0.0;Crédito Infinite;3572;22081.25
+47;Ana Nascimento;778.597.420-69;ana.nascimento@email.com;Universitária;0004;66838-3;0.0;Crédito Platinum;1053;23463.15
+48;João Nascimento;538.951.971-28;joão.nascimento@email.com;Corrente;0002;75524-0;2412.88;Crédito Infinite;7242;41083.42
+49;Carlos Oliveira;688.223.548-43;carlos.oliveira@email.com;Poupanca;0009;65571-3;0.0;Crédito Infinite;6024;33223.49
+50;Maria Silva;763.311.593-62;maria.silva@email.com;Universitária;0009;44969-0;0.0;Débito;9322;0.0
+51;João Ferreira;496.856.645-81;joão.ferreira@email.com;Universitária;0002;18393-7;0.0;Crédito Platinum;8008;35994.7
+52;Lucas Costa;753.206.816-52;lucas.costa@email.com;Poupanca;0003;60442-0;0.0;Crédito Platinum;3389;24584.39
+53;Lucas Nascimento;194.232.864-79;lucas.nascimento@email.com;Corrente;0005;60195-6;857.0;Crédito Infinite;8845;44905.97
+54;Ricardo Souza;881.821.541-82;ricardo.souza@email.com;Poupanca;0009;37755-7;0.0;Crédito Black;6719;15354.59
+55;Carlos Silva;670.314.312-43;carlos.silva@email.com;Universitária;0009;80144-4;0.0;Crédito Infinite;5354;41658.1
+56;Ricardo Nascimento;652.566.706-48;ricardo.nascimento@email.com;Corrente;0010;34460-8;3706.6;Débito;5168;0.0
+57;Juliana Pereira;215.896.377-28;juliana.pereira@email.com;Poupanca;0009;63398-3;0.0;Crédito Black;6176;17914.53
+58;João Costa;583.606.244-11;joão.costa@email.com;Poupanca;0009;41638-9;0.0;Crédito Infinite;1181;4914.72
+59;Maria Silva;804.939.590-63;maria.silva@email.com;Poupanca;0004;68980-9;0.0;Débito;6624;0.0
+60;Patrícia Costa;189.229.964-90;patrícia.costa@email.com;Universitária;0001;78854-0;0.0;Crédito Infinite;1219;33153.24
+61;Beatriz Souza;356.586.714-29;beatriz.souza@email.com;Poupanca;0010;63070-0;0.0;Crédito Infinite;4723;16329.83
+62;Ana Oliveira;719.189.467-88;ana.oliveira@email.com;Universitária;0007;45184-4;0.0;Crédito Black;4454;39597.48
+63;Juliana Santos;510.709.591-75;juliana.santos@email.com;Poupanca;0001;62341-7;0.0;Crédito Infinite;2687;11968.59
+64;Maria Silva;183.141.715-49;maria.silva@email.com;Corrente;0001;20200-0;1451.54;Crédito Platinum;3390;3112.61
+65;Patrícia Pereira;681.841.641-36;patrícia.pereira@email.com;Universitária;0004;11453-6;0.0;Crédito Black;1516;6562.44
+66;Beatriz Almeida;952.850.168-20;beatriz.almeida@email.com;Corrente;0002;33911-3;2095.34;Crédito Infinite;8505;48528.66
+67;Carlos Silva;316.472.969-21;carlos.silva@email.com;Poupanca;0005;92074-1;0.0;Crédito Infinite;7239;27910.38
+68;Lucas Costa;816.562.137-57;lucas.costa@email.com;Universitária;0009;77629-1;0.0;Débito;3835;0.0
+69;Ana Almeida;215.226.536-19;ana.almeida@email.com;Poupanca;0007;32696-4;0.0;Crédito Infinite;2813;27422.67
+70;Fernando Costa;591.659.900-11;fernando.costa@email.com;Corrente;0003;55764-7;3014.58;Crédito Black;4076;10041.28
+71;Patrícia Oliveira;735.466.345-14;patrícia.oliveira@email.com;Corrente;0009;95662-7;3086.85;Débito;2825;0.0
+72;Patrícia Santos;817.433.832-42;patrícia.santos@email.com;Universitária;0010;19142-3;0.0;Débito;7495;0.0
+73;Patrícia Nascimento;566.554.950-90;patrícia.nascimento@email.com;Universitária;0001;55963-4;0.0;Crédito Black;9268;44641.86
+74;Beatriz Silva;100.722.129-45;beatriz.silva@email.com;Poupanca;0006;36806-3;0.0;Débito;5101;0.0
+75;Ana Pereira;927.572.854-63;ana.pereira@email.com;Universitária;0005;13490-0;0.0;Débito;2641;0.0
+76;Beatriz Ferreira;688.455.621-63;beatriz.ferreira@email.com;Universitária;0004;73222-7;0.0;Crédito Infinite;6075;31209.11
+77;Juliana Silva;616.291.959-10;juliana.silva@email.com;Poupanca;0003;33798-2;0.0;Crédito Black;1140;16889.41
+78;Fernando Almeida;866.991.906-90;fernando.almeida@email.com;Universitária;0006;47605-8;0.0;Crédito Black;7694;47571.61
+79;Maria Costa;676.469.292-83;maria.costa@email.com;Poupanca;0006;75281-6;0.0;Crédito Platinum;4438;19408.94
+80;Beatriz Nascimento;851.257.782-57;beatriz.nascimento@email.com;Poupanca;0010;85026-6;0.0;Débito;8568;0.0
+81;Beatriz Costa;408.255.247-48;beatriz.costa@email.com;Corrente;0008;56837-7;2364.04;Crédito Infinite;8041;26787.35
+82;Ana Oliveira;978.843.293-99;ana.oliveira@email.com;Corrente;0004;74665-1;2075.32;Crédito Infinite;3957;25520.99
+83;Fernando Almeida;216.914.607-78;fernando.almeida@email.com;Corrente;0005;74710-1;755.12;Débito;5398;0.0
+84;Maria Pereira;882.790.936-20;maria.pereira@email.com;Poupanca;0010;55099-4;0.0;Crédito Platinum;2476;3556.8
+85;Beatriz Almeida;258.947.484-76;beatriz.almeida@email.com;Corrente;0006;12943-1;3150.78;Crédito Black;8096;44875.79
+86;Juliana Costa;305.383.145-26;juliana.costa@email.com;Corrente;0005;83197-2;1288.43;Crédito Platinum;5031;47160.7
+87;Beatriz Nascimento;134.401.328-57;beatriz.nascimento@email.com;Corrente;0007;55312-0;2366.28;Crédito Infinite;2711;33943.68
+88;Beatriz Ferreira;866.410.690-22;beatriz.ferreira@email.com;Universitária;0001;18135-2;0.0;Débito;9526;0.0
+89;Ana Costa;121.531.875-60;ana.costa@email.com;Universitária;0005;58318-2;0.0;Crédito Infinite;3874;47587.82
+90;Beatriz Almeida;730.642.394-86;beatriz.almeida@email.com;Universitária;0004;94868-9;0.0;Débito;7292;0.0
+91;Juliana Oliveira;688.735.739-62;juliana.oliveira@email.com;Poupanca;0009;41402-8;0.0;Crédito Infinite;4433;25098.34
+92;Carlos Costa;698.574.992-21;carlos.costa@email.com;Universitária;0001;48149-1;0.0;Crédito Platinum;6230;36574.52
+93;Maria Nascimento;105.513.866-94;maria.nascimento@email.com;Poupanca;0005;66317-3;0.0;Crédito Infinite;3161;15025.17
+94;João Santos;398.950.960-98;joão.santos@email.com;Corrente;0002;82800-3;4936.48;Débito;5305;0.0
+95;Carlos Silva;745.576.761-74;carlos.silva@email.com;Corrente;0009;22426-5;3081.64;Crédito Infinite;4093;30078.48
+96;Lucas Almeida;405.448.735-42;lucas.almeida@email.com;Corrente;0002;29361-9;2920.83;Débito;1084;0.0
+97;João Oliveira;525.109.752-82;joão.oliveira@email.com;Universitária;0006;49356-0;0.0;Crédito Black;3865;32591.8
+98;João Souza;469.667.732-63;joão.souza@email.com;Corrente;0006;54567-6;2285.25;Crédito Black;6899;34783.58
+99;João Nascimento;761.748.837-53;joão.nascimento@email.com;Corrente;0003;66149-0;3254.54;Crédito Infinite;1989;44447.74
+100;Carlos Souza;881.734.571-33;carlos.souza@email.com;Universitária;0010;98867-5;0.0;Crédito Platinum;2293;17174.03
+101;Carlos Pereira;169.635.329-53;carlos.pereira@email.com;Poupanca;0010;50870-9;0.0;Crédito Infinite;4337;43321.69
+102;Fernando Nascimento;792.452.590-94;fernando.nascimento@email.com;Poupanca;0006;49870-7;0.0;Crédito Infinite;8795;30258.59
+103;Patrícia Ferreira;735.302.990-52;patrícia.ferreira@email.com;Universitária;0006;25122-0;0.0;Crédito Infinite;1779;43703.04
+104;Maria Ferreira;848.862.418-53;maria.ferreira@email.com;Poupanca;0008;55209-8;0.0;Crédito Platinum;5871;47871.42
+105;João Almeida;323.696.218-90;joão.almeida@email.com;Universitária;0002;82963-9;0.0;Débito;9264;0.0
+106;João Santos;282.828.126-16;joão.santos@email.com;Corrente;0009;39850-0;3909.42;Crédito Platinum;8233;46730.56
+107;Juliana Santos;495.105.933-35;juliana.santos@email.com;Poupanca;0006;17164-0;0.0;Crédito Black;1570;39902.34
+108;João Costa;467.370.492-39;joão.costa@email.com;Corrente;0008;39983-3;1398.56;Débito;6181;0.0
+109;Fernando Pereira;610.848.719-18;fernando.pereira@email.com;Poupanca;0009;56324-1;0.0;Crédito Infinite;8583;9901.73
+110;Juliana Souza;576.814.853-62;juliana.souza@email.com;Corrente;0008;46307-7;1024.45;Crédito Platinum;4626;22176.79
+111;Lucas Nascimento;402.812.178-54;lucas.nascimento@email.com;Poupanca;0008;18749-7;0.0;Crédito Infinite;4945;45089.0
+112;Fernando Almeida;848.378.402-41;fernando.almeida@email.com;Universitária;0003;87418-8;0.0;Crédito Platinum;1483;24874.81
+113;Ana Souza;536.619.424-70;ana.souza@email.com;Universitária;0003;25352-0;0.0;Crédito Infinite;2344;7590.59
+114;Maria Ferreira;865.297.102-85;maria.ferreira@email.com;Universitária;0007;88780-6;0.0;Crédito Infinite;6879;8343.3
+115;Patrícia Santos;273.603.632-85;patrícia.santos@email.com;Universitária;0008;37503-2;0.0;Crédito Black;4277;5727.53
+116;Ricardo Souza;275.174.729-67;ricardo.souza@email.com;Corrente;0003;52246-1;195.85;Crédito Infinite;8915;19334.9
+117;Ricardo Silva;590.104.456-17;ricardo.silva@email.com;Poupanca;0006;71203-3;0.0;Débito;9663;0.0
+118;Fernando Silva;323.644.833-10;fernando.silva@email.com;Corrente;0003;71420-4;2453.39;Crédito Black;8340;34790.02
+119;Ricardo Souza;862.786.332-62;ricardo.souza@email.com;Poupanca;0009;22493-3;0.0;Crédito Black;1540;1423.14
+120;Juliana Nascimento;290.965.677-56;juliana.nascimento@email.com;Corrente;0003;61982-7;2195.61;Débito;4047;0.0
+121;Carlos Pereira;178.135.642-58;carlos.pereira@email.com;Poupanca;0002;84146-3;0.0;Crédito Infinite;1323;31065.2
+122;Juliana Pereira;137.753.780-48;juliana.pereira@email.com;Universitária;0001;22322-3;0.0;Débito;6722;0.0
+123;Lucas Silva;722.459.608-45;lucas.silva@email.com;Universitária;0005;79337-6;0.0;Débito;8073;0.0
+124;João Ferreira;420.112.406-87;joão.ferreira@email.com;Universitária;0009;71724-3;0.0;Crédito Black;8722;21198.81
+125;Juliana Oliveira;901.372.804-31;juliana.oliveira@email.com;Universitária;0005;64973-5;0.0;Débito;2140;0.0
+126;Lucas Pereira;746.671.904-22;lucas.pereira@email.com;Poupanca;0009;90276-2;0.0;Crédito Infinite;3765;21899.19
+127;Ana Pereira;993.365.486-57;ana.pereira@email.com;Corrente;0009;28475-4;503.27;Crédito Platinum;9669;48411.34
+128;Patrícia Pereira;937.196.554-17;patrícia.pereira@email.com;Corrente;0009;10778-5;1543.46;Crédito Platinum;3914;49935.52
+129;Beatriz Santos;346.427.495-25;beatriz.santos@email.com;Corrente;0005;25995-3;1479.42;Crédito Black;4541;42927.97
+130;Carlos Santos;527.497.503-44;carlos.santos@email.com;Poupanca;0004;70275-2;0.0;Crédito Infinite;8481;30994.61
+131;João Costa;211.678.216-91;joão.costa@email.com;Universitária;0005;64314-1;0.0;Crédito Platinum;2099;7882.53
+132;Lucas Costa;114.595.228-16;lucas.costa@email.com;Universitária;0005;83894-9;0.0;Crédito Platinum;1436;13709.42
+133;Maria Ferreira;823.583.892-96;maria.ferreira@email.com;Poupanca;0007;10581-3;0.0;Crédito Infinite;7276;39967.03
+134;Beatriz Oliveira;446.952.282-75;beatriz.oliveira@email.com;Poupanca;0001;50845-9;0.0;Crédito Platinum;5934;40538.69
+135;Ana Santos;355.858.362-65;ana.santos@email.com;Universitária;0007;22244-5;0.0;Crédito Black;8112;13650.62
+136;Lucas Souza;143.528.949-81;lucas.souza@email.com;Poupanca;0003;43108-8;0.0;Crédito Black;7895;22817.71
+137;Lucas Costa;238.430.864-12;lucas.costa@email.com;Universitária;0009;60058-3;0.0;Débito;7731;0.0
+138;Ana Pereira;921.418.270-75;ana.pereira@email.com;Corrente;0003;81448-0;590.12;Crédito Infinite;8160;1668.01
+139;Fernando Almeida;979.812.272-96;fernando.almeida@email.com;Poupanca;0004;73446-6;0.0;Débito;8149;0.0
+140;Juliana Ferreira;599.926.934-88;juliana.ferreira@email.com;Corrente;0002;36170-7;482.48;Débito;8513;0.0
+141;Lucas Pereira;572.845.309-63;lucas.pereira@email.com;Universitária;0008;37617-2;0.0;Crédito Infinite;6306;15123.46
+142;João Souza;182.316.336-84;joão.souza@email.com;Poupanca;0006;21780-4;0.0;Crédito Platinum;9678;1832.17
+143;Ricardo Souza;468.165.847-54;ricardo.souza@email.com;Universitária;0004;72818-3;0.0;Crédito Platinum;7912;44401.12
+144;Ana Costa;297.538.242-35;ana.costa@email.com;Corrente;0002;43971-5;3277.47;Crédito Black;9162;12838.4
+145;Ana Costa;704.113.340-35;ana.costa@email.com;Universitária;0007;90436-4;0.0;Débito;1019;0.0
+146;João Almeida;176.756.504-11;joão.almeida@email.com;Universitária;0002;90736-5;0.0;Crédito Black;3596;25356.69
+147;Ricardo Santos;652.766.735-77;ricardo.santos@email.com;Corrente;0007;19706-0;1491.95;Débito;5653;0.0
+148;João Pereira;163.963.674-78;joão.pereira@email.com;Universitária;0010;40571-9;0.0;Crédito Infinite;3677;46943.01
+149;Maria Oliveira;604.969.790-54;maria.oliveira@email.com;Corrente;0008;64979-5;4598.18;Crédito Platinum;6221;48126.4
+150;Patrícia Souza;205.765.493-11;patrícia.souza@email.com;Corrente;0007;81398-6;2736.3;Crédito Infinite;4340;24475.6
+151;Carlos Costa;816.875.509-91;carlos.costa@email.com;Universitária;0006;66749-7;0.0;Crédito Black;4121;32345.56
+152;Ana Ferreira;151.916.744-24;ana.ferreira@email.com;Corrente;0007;33297-7;31.18;Crédito Platinum;8215;19444.25
+153;Patrícia Santos;413.340.967-60;patrícia.santos@email.com;Universitária;0010;94657-4;0.0;Crédito Infinite;5335;4786.09
+154;Lucas Almeida;158.152.839-49;lucas.almeida@email.com;Poupanca;0008;85564-8;0.0;Crédito Black;9735;37281.41
+155;Lucas Ferreira;551.785.727-53;lucas.ferreira@email.com;Corrente;0010;85461-4;3819.77;Crédito Platinum;7997;49952.54
+156;Juliana Santos;936.213.378-44;juliana.santos@email.com;Poupanca;0009;53972-1;0.0;Crédito Black;8256;25415.91
+157;Juliana Silva;376.276.569-66;juliana.silva@email.com;Poupanca;0001;72948-3;0.0;Crédito Platinum;8213;39496.27
+158;Beatriz Silva;292.654.425-16;beatriz.silva@email.com;Corrente;0006;63602-3;1154.63;Crédito Platinum;2252;18095.02
+159;Patrícia Nascimento;734.137.552-32;patrícia.nascimento@email.com;Universitária;0002;97681-7;0.0;Débito;1489;0.0
+160;Lucas Souza;605.420.783-71;lucas.souza@email.com;Corrente;0004;17535-7;3319.0;Crédito Platinum;9769;44472.24
+161;Beatriz Nascimento;983.961.238-16;beatriz.nascimento@email.com;Poupanca;0007;63811-1;0.0;Débito;5593;0.0
+162;Juliana Santos;226.987.363-78;juliana.santos@email.com;Universitária;0006;71331-3;0.0;Crédito Black;5313;37044.45
+163;Patrícia Souza;982.224.342-42;patrícia.souza@email.com;Universitária;0003;39780-1;0.0;Crédito Black;1063;48316.64
+164;João Almeida;840.474.730-60;joão.almeida@email.com;Universitária;0008;65892-3;0.0;Débito;5992;0.0
+165;Juliana Oliveira;864.164.999-50;juliana.oliveira@email.com;Universitária;0004;25169-1;0.0;Crédito Black;2485;30867.26
+166;Maria Costa;694.926.382-77;maria.costa@email.com;Corrente;0002;39836-1;1361.07;Débito;5759;0.0
+167;Beatriz Santos;529.177.164-48;beatriz.santos@email.com;Corrente;0008;85631-7;2898.25;Crédito Platinum;5817;23827.12
+168;Lucas Almeida;948.231.636-32;lucas.almeida@email.com;Universitária;0010;45471-8;0.0;Crédito Black;8540;38738.56
+169;Maria Ferreira;342.347.883-63;maria.ferreira@email.com;Poupanca;0006;76733-2;0.0;Crédito Platinum;1510;2886.31
+170;Fernando Oliveira;839.194.918-88;fernando.oliveira@email.com;Corrente;0008;62078-1;2472.94;Débito;3817;0.0
+171;Juliana Ferreira;683.461.820-16;juliana.ferreira@email.com;Poupanca;0006;76933-0;0.0;Crédito Infinite;9858;1607.77
+172;Ana Souza;295.591.954-18;ana.souza@email.com;Corrente;0005;88902-3;4780.83;Débito;9745;0.0
+173;Ricardo Nascimento;637.685.136-74;ricardo.nascimento@email.com;Corrente;0009;58848-6;891.2;Débito;8214;0.0
+174;Ricardo Souza;848.116.670-40;ricardo.souza@email.com;Poupanca;0006;64872-5;0.0;Crédito Black;2039;47569.84
+175;Juliana Ferreira;596.988.351-97;juliana.ferreira@email.com;Corrente;0006;67285-4;1570.02;Débito;4121;0.0
+176;João Nascimento;909.846.798-81;joão.nascimento@email.com;Universitária;0009;18841-7;0.0;Crédito Platinum;8205;41294.8
+177;Ana Pereira;614.589.315-84;ana.pereira@email.com;Poupanca;0007;41074-1;0.0;Crédito Platinum;3255;12078.64
+178;Carlos Oliveira;974.639.500-16;carlos.oliveira@email.com;Poupanca;0002;59553-5;0.0;Débito;1279;0.0
+179;Juliana Almeida;228.468.549-97;juliana.almeida@email.com;Poupanca;0008;85511-5;0.0;Crédito Platinum;7403;45739.48
+180;Maria Costa;694.823.933-99;maria.costa@email.com;Universitária;0004;46384-9;0.0;Crédito Infinite;7455;28800.78
+181;Beatriz Ferreira;542.751.158-43;beatriz.ferreira@email.com;Corrente;0008;59081-0;3625.92;Crédito Platinum;1673;2288.29
+182;João Almeida;122.946.651-68;joão.almeida@email.com;Universitária;0009;89708-2;0.0;Crédito Platinum;7464;49828.64
+183;João Ferreira;684.437.247-93;joão.ferreira@email.com;Corrente;0009;61802-9;1027.97;Crédito Black;8466;18542.17
+184;João Pereira;372.355.129-50;joão.pereira@email.com;Poupanca;0006;44208-0;0.0;Débito;4341;0.0
+185;Beatriz Ferreira;738.280.326-52;beatriz.ferreira@email.com;Poupanca;0001;15375-2;0.0;Crédito Infinite;3386;6998.43
+186;Lucas Ferreira;135.258.462-26;lucas.ferreira@email.com;Poupanca;0007;53975-5;0.0;Débito;9227;0.0
+187;Fernando Souza;308.715.631-37;fernando.souza@email.com;Poupanca;0005;23835-8;0.0;Débito;4108;0.0
+188;Patrícia Souza;281.757.572-41;patrícia.souza@email.com;Poupanca;0004;64921-6;0.0;Crédito Black;8979;30577.23
+189;João Nascimento;638.701.262-56;joão.nascimento@email.com;Corrente;0003;87276-3;1329.45;Crédito Platinum;4714;22736.49
+190;Ana Nascimento;715.484.563-28;ana.nascimento@email.com;Universitária;0010;81007-2;0.0;Crédito Black;4500;15538.33
+191;Patrícia Santos;569.831.248-85;patrícia.santos@email.com;Poupanca;0004;99939-0;0.0;Débito;2034;0.0
+192;Ricardo Pereira;724.316.200-21;ricardo.pereira@email.com;Corrente;0008;68098-0;3568.52;Crédito Infinite;4221;37854.32
+193;Patrícia Pereira;221.877.953-12;patrícia.pereira@email.com;Universitária;0002;53063-6;0.0;Crédito Black;2800;4267.34
+194;Fernando Costa;482.729.328-29;fernando.costa@email.com;Poupanca;0003;63857-4;0.0;Crédito Black;5543;7146.91
+195;Ana Costa;776.500.464-78;ana.costa@email.com;Universitária;0003;93033-8;0.0;Débito;6941;0.0
+196;Ricardo Silva;145.399.934-57;ricardo.silva@email.com;Universitária;0006;32917-1;0.0;Débito;4009;0.0
+197;Ana Santos;405.212.501-44;ana.santos@email.com;Universitária;0008;23027-0;0.0;Débito;9961;0.0
+198;Ricardo Oliveira;974.473.721-90;ricardo.oliveira@email.com;Universitária;0001;46172-4;0.0;Crédito Black;4741;1344.44
+199;Ana Costa;633.635.426-48;ana.costa@email.com;Corrente;0004;22167-7;2232.1;Débito;1229;0.0
+200;Fernando Almeida;804.328.160-12;fernando.almeida@email.com;Corrente;0009;89108-3;1980.22;Crédito Platinum;7849;6157.82
+201;Beatriz Almeida;612.492.246-50;beatriz.almeida@email.com;Universitária;0009;38888-8;0.0;Crédito Infinite;5351;2009.55
+202;Patrícia Silva;430.508.225-69;patrícia.silva@email.com;Poupanca;0004;65210-3;0.0;Crédito Infinite;3341;40497.26
+203;Ana Almeida;840.812.326-29;ana.almeida@email.com;Universitária;0003;86086-4;0.0;Crédito Infinite;6507;11765.86
+204;Ricardo Almeida;192.400.305-30;ricardo.almeida@email.com;Poupanca;0007;68282-8;0.0;Crédito Infinite;2913;11158.17
+205;João Ferreira;716.932.232-24;joão.ferreira@email.com;Universitária;0009;83607-3;0.0;Crédito Black;5562;17329.36
+206;Ana Nascimento;319.858.206-15;ana.nascimento@email.com;Corrente;0006;40767-7;3347.65;Crédito Platinum;5954;25113.19
+207;Juliana Nascimento;539.402.980-42;juliana.nascimento@email.com;Universitária;0002;30693-8;0.0;Crédito Black;8882;24158.16
+208;Juliana Oliveira;902.259.859-73;juliana.oliveira@email.com;Corrente;0003;26367-9;4325.03;Crédito Platinum;3223;47917.76
+209;Fernando Souza;748.142.688-52;fernando.souza@email.com;Poupanca;0009;94097-7;0.0;Débito;5917;0.0
+210;João Santos;848.502.916-16;joão.santos@email.com;Universitária;0010;56714-0;0.0;Crédito Infinite;8891;45132.66
+211;Beatriz Silva;491.446.888-11;beatriz.silva@email.com;Universitária;0005;87259-6;0.0;Crédito Infinite;6347;32981.35
+212;Patrícia Pereira;761.376.882-68;patrícia.pereira@email.com;Corrente;0002;80608-8;3298.95;Crédito Infinite;5306;31456.51
+213;Juliana Ferreira;982.860.617-31;juliana.ferreira@email.com;Corrente;0010;66451-1;1448.14;Débito;5800;0.0
+214;Juliana Costa;581.449.400-92;juliana.costa@email.com;Poupanca;0005;97479-6;0.0;Crédito Platinum;9211;43583.92
+215;Ana Costa;392.728.448-96;ana.costa@email.com;Poupanca;0008;59702-8;0.0;Crédito Infinite;7278;29304.9
+216;João Ferreira;152.948.168-75;joão.ferreira@email.com;Corrente;0005;13107-7;4771.67;Débito;2940;0.0
+217;Carlos Santos;431.961.381-57;carlos.santos@email.com;Corrente;0007;79391-6;1253.08;Crédito Black;8739;45744.53
+218;Ricardo Nascimento;119.491.244-71;ricardo.nascimento@email.com;Universitária;0005;81430-4;0.0;Crédito Black;7454;30819.96
+219;Maria Oliveira;210.612.439-12;maria.oliveira@email.com;Poupanca;0008;72097-0;0.0;Crédito Infinite;1462;43119.26
+220;Juliana Nascimento;396.805.289-87;juliana.nascimento@email.com;Universitária;0009;39503-3;0.0;Débito;1126;0.0
+221;Ricardo Costa;944.228.447-18;ricardo.costa@email.com;Corrente;0004;11960-0;2989.43;Crédito Platinum;8211;1565.54
+222;Beatriz Souza;967.168.988-74;beatriz.souza@email.com;Universitária;0007;72024-2;0.0;Débito;4670;0.0
+223;Ana Ferreira;333.266.224-32;ana.ferreira@email.com;Corrente;0007;89337-1;3941.47;Crédito Platinum;9282;39095.38
+224;Carlos Pereira;674.696.508-79;carlos.pereira@email.com;Poupanca;0008;13058-2;0.0;Débito;8332;0.0
+225;Beatriz Ferreira;581.911.815-46;beatriz.ferreira@email.com;Universitária;0001;15269-7;0.0;Crédito Black;8295;44000.85
+226;João Oliveira;984.670.190-85;joão.oliveira@email.com;Poupanca;0001;64446-5;0.0;Crédito Black;5615;30409.58
+227;João Nascimento;159.769.626-19;joão.nascimento@email.com;Corrente;0010;92073-3;3901.73;Crédito Infinite;2078;1204.67
+228;Lucas Pereira;655.137.513-30;lucas.pereira@email.com;Poupanca;0001;39084-3;0.0;Crédito Black;8996;14373.54
+229;Ricardo Souza;928.776.466-54;ricardo.souza@email.com;Corrente;0008;95552-5;1949.32;Débito;4614;0.0
+230;Carlos Pereira;868.381.765-52;carlos.pereira@email.com;Poupanca;0007;48866-8;0.0;Crédito Platinum;5842;48796.61
+231;Lucas Nascimento;457.986.688-81;lucas.nascimento@email.com;Poupanca;0004;13733-7;0.0;Crédito Platinum;9161;41401.51
+232;Maria Pereira;690.274.219-78;maria.pereira@email.com;Poupanca;0001;19051-9;0.0;Débito;7454;0.0
+233;Patrícia Almeida;699.787.215-12;patrícia.almeida@email.com;Poupanca;0004;67120-9;0.0;Débito;4252;0.0
+234;Maria Ferreira;531.126.831-24;maria.ferreira@email.com;Corrente;0010;34417-1;185.07;Débito;5083;0.0
+235;João Ferreira;153.942.685-14;joão.ferreira@email.com;Universitária;0007;47291-1;0.0;Crédito Infinite;7251;5708.66
+236;Ana Nascimento;503.485.520-44;ana.nascimento@email.com;Poupanca;0007;93133-3;0.0;Crédito Platinum;4581;37773.19
+237;Fernando Silva;821.725.181-44;fernando.silva@email.com;Universitária;0006;25653-1;0.0;Crédito Platinum;2720;18957.22
+238;Carlos Nascimento;712.684.477-66;carlos.nascimento@email.com;Universitária;0001;35714-4;0.0;Crédito Infinite;9104;1373.24
+239;João Santos;348.586.698-30;joão.santos@email.com;Corrente;0001;60827-6;25.54;Crédito Platinum;2458;29722.15
+240;João Ferreira;729.750.689-40;joão.ferreira@email.com;Corrente;0008;95794-4;2938.14;Crédito Black;9697;7323.03
+241;Fernando Santos;543.662.296-53;fernando.santos@email.com;Poupanca;0010;54735-9;0.0;Crédito Black;5361;13712.65
+242;Beatriz Ferreira;168.604.562-85;beatriz.ferreira@email.com;Corrente;0002;49822-0;4865.35;Crédito Platinum;6529;20789.6
+243;Carlos Santos;915.730.119-71;carlos.santos@email.com;Universitária;0005;59717-2;0.0;Crédito Black;2376;43279.96
+244;Beatriz Almeida;569.831.668-14;beatriz.almeida@email.com;Corrente;0009;36986-3;402.83;Débito;1605;0.0
+245;João Silva;722.420.440-15;joão.silva@email.com;Corrente;0006;41802-2;3200.45;Crédito Black;5249;10170.13
+246;Fernando Silva;223.814.575-81;fernando.silva@email.com;Corrente;0004;37248-5;1476.62;Crédito Infinite;7610;48646.94
+247;Patrícia Costa;890.608.386-97;patrícia.costa@email.com;Universitária;0001;59311-0;0.0;Crédito Infinite;2775;23234.23
+248;Ricardo Almeida;498.990.270-88;ricardo.almeida@email.com;Corrente;0007;24407-1;2439.89;Crédito Infinite;9091;12190.94
+249;Fernando Pereira;255.815.932-32;fernando.pereira@email.com;Corrente;0009;74147-9;4290.68;Crédito Infinite;5173;14440.58
+250;Patrícia Silva;259.485.292-70;patrícia.silva@email.com;Poupanca;0007;36064-4;0.0;Crédito Platinum;5793;17010.52
+251;Lucas Ferreira;409.566.122-68;lucas.ferreira@email.com;Corrente;0004;33728-1;2429.17;Crédito Black;8085;44834.63
+252;Patrícia Santos;550.805.784-52;patrícia.santos@email.com;Corrente;0007;84506-1;4488.13;Crédito Platinum;9050;17750.21
+253;Beatriz Almeida;625.710.304-25;beatriz.almeida@email.com;Corrente;0005;87798-1;3124.47;Crédito Platinum;3502;40559.83
+254;Ricardo Santos;472.950.896-15;ricardo.santos@email.com;Corrente;0007;22871-8;4646.06;Crédito Platinum;8499;33094.47
+255;Beatriz Silva;907.187.209-84;beatriz.silva@email.com;Corrente;0006;53939-8;485.27;Crédito Platinum;7966;33639.95
+256;Juliana Almeida;762.252.253-93;juliana.almeida@email.com;Corrente;0003;55301-0;2.62;Crédito Platinum;5683;13346.97
+257;Lucas Costa;723.697.722-12;lucas.costa@email.com;Corrente;0007;88340-1;1273.6;Crédito Black;3506;10057.56
+258;Patrícia Souza;297.158.489-87;patrícia.souza@email.com;Corrente;0007;98772-8;3100.86;Crédito Infinite;7523;42874.07
+259;Patrícia Oliveira;212.174.437-76;patrícia.oliveira@email.com;Corrente;0010;94407-1;2459.74;Crédito Black;9043;49626.02
+260;Juliana Nascimento;923.569.918-79;juliana.nascimento@email.com;Corrente;0003;93795-1;2247.81;Débito;3430;0.0
+261;Patrícia Santos;752.961.835-51;patrícia.santos@email.com;Corrente;0003;33935-7;3581.27;Débito;1999;0.0
+262;Fernando Almeida;150.788.793-27;fernando.almeida@email.com;Poupanca;0003;54754-1;0.0;Crédito Infinite;8161;15677.03
+263;Ricardo Santos;861.372.365-44;ricardo.santos@email.com;Poupanca;0005;22598-7;0.0;Crédito Platinum;6336;31185.41
+264;Beatriz Costa;794.222.992-75;beatriz.costa@email.com;Poupanca;0006;14982-9;0.0;Crédito Infinite;2361;7987.49
+265;Fernando Costa;186.625.926-86;fernando.costa@email.com;Corrente;0008;66544-1;390.48;Crédito Black;9016;21798.16
+266;Ricardo Pereira;802.468.489-30;ricardo.pereira@email.com;Corrente;0003;56563-3;1868.53;Crédito Platinum;7706;6039.87
+267;João Pereira;656.230.214-95;joão.pereira@email.com;Corrente;0008;37566-1;3219.79;Crédito Infinite;4001;24168.12
+268;Ricardo Costa;873.554.935-28;ricardo.costa@email.com;Corrente;0005;77286-8;2934.78;Crédito Platinum;9379;32468.58
+269;Ricardo Pereira;757.100.960-10;ricardo.pereira@email.com;Poupanca;0009;31684-0;0.0;Crédito Platinum;8879;9845.28
+270;Carlos Oliveira;290.402.447-78;carlos.oliveira@email.com;Universitária;0007;32210-7;0.0;Débito;3490;0.0
+271;Juliana Pereira;942.382.797-52;juliana.pereira@email.com;Universitária;0003;55712-5;0.0;Crédito Black;4747;44499.45
+272;Maria Pereira;361.794.542-21;maria.pereira@email.com;Poupanca;0003;52098-8;0.0;Crédito Platinum;2232;33264.63
+273;Patrícia Costa;705.136.663-44;patrícia.costa@email.com;Poupanca;0007;38702-6;0.0;Crédito Black;2995;4482.86
+274;João Ferreira;623.611.851-80;joão.ferreira@email.com;Poupanca;0003;15899-3;0.0;Débito;9533;0.0
+275;Beatriz Oliveira;868.358.442-71;beatriz.oliveira@email.com;Corrente;0009;74510-2;96.82;Débito;4768;0.0
+276;Patrícia Pereira;817.344.188-69;patrícia.pereira@email.com;Corrente;0004;52774-4;3535.31;Débito;8786;0.0
+277;Maria Ferreira;786.286.598-43;maria.ferreira@email.com;Universitária;0007;47630-6;0.0;Crédito Infinite;6825;5430.65
+278;Ricardo Oliveira;516.693.327-28;ricardo.oliveira@email.com;Universitária;0002;99961-3;0.0;Crédito Black;7384;44472.0
+279;Maria Nascimento;962.442.713-29;maria.nascimento@email.com;Corrente;0006;52118-7;1483.12;Débito;1467;0.0
+280;Patrícia Oliveira;206.179.979-20;patrícia.oliveira@email.com;Poupanca;0004;10320-8;0.0;Débito;5511;0.0
+281;João Santos;521.397.340-95;joão.santos@email.com;Corrente;0007;23191-6;2922.79;Crédito Platinum;5248;38510.53
+282;Lucas Oliveira;754.556.478-93;lucas.oliveira@email.com;Poupanca;0005;40383-1;0.0;Crédito Platinum;2558;38689.71
+283;Lucas Nascimento;146.560.945-42;lucas.nascimento@email.com;Universitária;0005;87890-9;0.0;Débito;8308;0.0
+284;Maria Pereira;410.440.804-34;maria.pereira@email.com;Poupanca;0009;56962-9;0.0;Crédito Platinum;2020;44686.54
+285;Patrícia Santos;694.439.538-19;patrícia.santos@email.com;Poupanca;0010;23010-9;0.0;Crédito Infinite;2812;18538.89
+286;Maria Pereira;132.817.227-66;maria.pereira@email.com;Corrente;0007;78129-7;952.43;Crédito Black;5179;28851.92
+287;Juliana Silva;284.379.242-45;juliana.silva@email.com;Universitária;0001;91356-8;0.0;Débito;4455;0.0
+288;Ana Pereira;216.723.851-42;ana.pereira@email.com;Universitária;0001;36254-8;0.0;Crédito Infinite;3202;48223.39
+289;Juliana Santos;394.804.242-43;juliana.santos@email.com;Universitária;0005;91346-6;0.0;Crédito Platinum;1938;12149.28
+290;Fernando Souza;652.974.663-34;fernando.souza@email.com;Poupanca;0001;31101-1;0.0;Débito;5503;0.0
+291;Ana Oliveira;605.649.879-24;ana.oliveira@email.com;Poupanca;0005;61150-9;0.0;Crédito Black;4000;12658.8
+292;Maria Ferreira;398.971.665-90;maria.ferreira@email.com;Universitária;0008;77337-8;0.0;Crédito Infinite;7128;30144.18
+293;Maria Costa;858.295.202-76;maria.costa@email.com;Universitária;0009;23772-4;0.0;Crédito Black;2378;14738.5
+294;Ricardo Costa;104.829.974-53;ricardo.costa@email.com;Universitária;0003;57244-1;0.0;Crédito Platinum;1410;4036.96
+295;Beatriz Santos;361.336.181-19;beatriz.santos@email.com;Corrente;0006;30905-1;4838.32;Crédito Black;6706;14481.14
+296;Carlos Silva;174.107.702-21;carlos.silva@email.com;Poupanca;0009;16451-3;0.0;Crédito Infinite;1916;36834.48
+297;Ana Ferreira;534.979.220-60;ana.ferreira@email.com;Poupanca;0007;45512-7;0.0;Crédito Black;6305;42901.06
+298;Lucas Nascimento;491.675.129-37;lucas.nascimento@email.com;Universitária;0009;36703-2;0.0;Crédito Infinite;4165;33000.24
+299;Juliana Silva;111.989.767-46;juliana.silva@email.com;Universitária;0006;85791-6;0.0;Crédito Infinite;9577;17331.64
+300;Beatriz Pereira;419.461.152-10;beatriz.pereira@email.com;Universitária;0008;75281-9;0.0;Crédito Infinite;9334;19905.51
+301;Carlos Pereira;831.197.192-67;carlos.pereira@email.com;Universitária;0009;83209-0;0.0;Crédito Platinum;3988;17099.26
+302;Ana Silva;781.481.517-88;ana.silva@email.com;Poupanca;0001;46647-0;0.0;Débito;2006;0.0
+303;Ricardo Santos;545.119.563-94;ricardo.santos@email.com;Corrente;0009;25785-3;3158.38;Crédito Black;5852;43813.06
+304;Beatriz Pereira;296.546.273-50;beatriz.pereira@email.com;Universitária;0006;68225-9;0.0;Crédito Black;9010;41101.3
+305;Fernando Silva;819.617.325-70;fernando.silva@email.com;Universitária;0001;84332-9;0.0;Crédito Platinum;6148;17335.54
+306;Carlos Oliveira;824.560.645-22;carlos.oliveira@email.com;Corrente;0005;38367-7;766.72;Crédito Black;6619;39231.73
+307;João Ferreira;700.757.300-87;joão.ferreira@email.com;Corrente;0005;45464-4;91.56;Crédito Infinite;5649;45628.8
+308;Maria Silva;695.703.153-16;maria.silva@email.com;Corrente;0004;31361-8;3614.12;Crédito Infinite;6999;44967.44
+309;Maria Ferreira;549.823.674-14;maria.ferreira@email.com;Universitária;0005;92188-5;0.0;Débito;5692;0.0
+310;João Souza;423.446.839-55;joão.souza@email.com;Poupanca;0004;34796-7;0.0;Crédito Platinum;7417;1735.57
+311;João Pereira;108.190.462-30;joão.pereira@email.com;Poupanca;0002;72850-1;0.0;Crédito Platinum;2634;48338.51
+312;Ricardo Pereira;517.598.174-82;ricardo.pereira@email.com;Poupanca;0009;14545-8;0.0;Crédito Platinum;4610;12104.97
+313;Juliana Silva;543.897.453-88;juliana.silva@email.com;Poupanca;0006;87641-7;0.0;Crédito Black;5646;48713.99
+314;Patrícia Almeida;517.627.495-73;patrícia.almeida@email.com;Universitária;0004;12312-7;0.0;Crédito Black;3268;32147.95
+315;Ricardo Oliveira;629.791.847-46;ricardo.oliveira@email.com;Poupanca;0002;61651-3;0.0;Débito;1517;0.0
+316;Lucas Pereira;267.591.851-83;lucas.pereira@email.com;Poupanca;0007;55311-7;0.0;Débito;1830;0.0
+317;Beatriz Silva;304.719.917-90;beatriz.silva@email.com;Universitária;0006;15332-6;0.0;Débito;4103;0.0
+318;Ana Costa;665.233.386-26;ana.costa@email.com;Poupanca;0005;51737-8;0.0;Crédito Infinite;4023;24479.67
+319;Ana Oliveira;718.995.345-23;ana.oliveira@email.com;Poupanca;0008;64556-2;0.0;Crédito Platinum;6174;28439.8
+320;Lucas Silva;651.811.507-62;lucas.silva@email.com;Corrente;0002;24792-9;2578.03;Crédito Black;7894;49920.44
+321;Juliana Ferreira;373.586.353-77;juliana.ferreira@email.com;Corrente;0009;85750-4;3708.96;Crédito Infinite;2730;25886.57
+322;Fernando Santos;645.973.679-73;fernando.santos@email.com;Universitária;0009;60156-8;0.0;Crédito Infinite;3187;16272.26
+323;Beatriz Silva;453.866.124-33;beatriz.silva@email.com;Corrente;0008;57577-3;4706.75;Crédito Black;5091;28985.07
+324;Ana Oliveira;549.444.713-23;ana.oliveira@email.com;Universitária;0009;89009-0;0.0;Crédito Black;8729;33410.66
+325;Maria Costa;959.455.188-70;maria.costa@email.com;Poupanca;0009;83401-3;0.0;Crédito Platinum;5272;34272.25
+326;João Souza;833.815.799-55;joão.souza@email.com;Poupanca;0003;30894-7;0.0;Crédito Black;2900;6146.46
+327;Juliana Oliveira;967.465.148-20;juliana.oliveira@email.com;Universitária;0004;68208-2;0.0;Crédito Infinite;7999;26487.41
+328;Maria Silva;673.936.822-91;maria.silva@email.com;Poupanca;0007;43242-0;0.0;Débito;3762;0.0
+329;Beatriz Nascimento;371.207.600-73;beatriz.nascimento@email.com;Poupanca;0003;37997-7;0.0;Débito;9017;0.0
+330;Maria Santos;722.346.468-64;maria.santos@email.com;Poupanca;0004;57113-1;0.0;Débito;2249;0.0
+331;Carlos Silva;604.900.815-44;carlos.silva@email.com;Poupanca;0004;42603-1;0.0;Crédito Infinite;8286;36119.89
+332;Beatriz Oliveira;296.274.389-12;beatriz.oliveira@email.com;Universitária;0004;84017-4;0.0;Débito;2449;0.0
+333;Patrícia Silva;445.732.588-64;patrícia.silva@email.com;Universitária;0005;16558-9;0.0;Débito;8688;0.0
+334;Maria Santos;424.301.928-79;maria.santos@email.com;Universitária;0006;48345-0;0.0;Débito;7719;0.0
+335;Juliana Santos;607.550.624-26;juliana.santos@email.com;Universitária;0004;85429-3;0.0;Crédito Infinite;2428;5920.41
+336;João Silva;847.711.466-84;joão.silva@email.com;Corrente;0010;89482-6;4499.95;Crédito Infinite;8651;9475.28
+337;Ana Oliveira;373.568.723-67;ana.oliveira@email.com;Corrente;0006;85624-9;1945.16;Débito;3424;0.0
+338;Beatriz Ferreira;335.373.904-76;beatriz.ferreira@email.com;Poupanca;0004;67157-2;0.0;Crédito Black;6811;33105.57
+339;Ana Pereira;631.572.791-24;ana.pereira@email.com;Universitária;0010;66249-2;0.0;Crédito Infinite;4600;5604.03
+340;Maria Nascimento;381.648.728-83;maria.nascimento@email.com;Poupanca;0005;65122-7;0.0;Crédito Black;7023;28634.03
+341;João Almeida;529.307.732-14;joão.almeida@email.com;Universitária;0006;77133-6;0.0;Crédito Infinite;5880;35361.28
+342;Maria Ferreira;742.713.545-21;maria.ferreira@email.com;Universitária;0006;16665-6;0.0;Débito;3464;0.0
+343;Lucas Costa;183.451.839-51;lucas.costa@email.com;Poupanca;0004;59165-5;0.0;Crédito Black;6990;29344.39
+344;Carlos Ferreira;561.345.828-69;carlos.ferreira@email.com;Poupanca;0001;86238-3;0.0;Débito;8426;0.0
+345;Carlos Ferreira;565.114.837-34;carlos.ferreira@email.com;Corrente;0008;73584-5;6.11;Crédito Infinite;7373;1153.07
+346;Ana Oliveira;682.742.907-31;ana.oliveira@email.com;Universitária;0004;17907-8;0.0;Crédito Infinite;6778;25579.75
+347;João Oliveira;424.706.738-17;joão.oliveira@email.com;Poupanca;0001;90392-0;0.0;Crédito Black;8974;29038.0
+348;Lucas Souza;325.961.937-49;lucas.souza@email.com;Universitária;0002;75137-6;0.0;Crédito Platinum;1646;31003.46
+349;Patrícia Oliveira;991.129.418-71;patrícia.oliveira@email.com;Corrente;0009;58494-9;1651.74;Crédito Infinite;7397;35601.22
+350;Juliana Santos;895.344.861-52;juliana.santos@email.com;Universitária;0005;44858-9;0.0;Crédito Platinum;9087;46447.29
+351;Juliana Oliveira;888.624.849-80;juliana.oliveira@email.com;Universitária;0008;34693-3;0.0;Débito;9372;0.0
+352;Carlos Nascimento;283.700.119-68;carlos.nascimento@email.com;Corrente;0005;51911-4;2276.48;Crédito Infinite;8157;40741.53
+353;Juliana Ferreira;167.922.852-32;juliana.ferreira@email.com;Universitária;0005;21003-0;0.0;Crédito Black;4936;21467.64
+354;Fernando Almeida;299.284.171-14;fernando.almeida@email.com;Universitária;0010;55607-6;0.0;Débito;8276;0.0
+355;Ricardo Almeida;955.843.544-91;ricardo.almeida@email.com;Universitária;0009;25883-9;0.0;Crédito Infinite;9429;23088.82
+356;João Costa;218.474.255-16;joão.costa@email.com;Poupanca;0003;30025-3;0.0;Débito;5070;0.0
+357;Maria Pereira;102.254.755-45;maria.pereira@email.com;Poupanca;0003;29124-3;0.0;Crédito Black;8210;37927.4
+358;Carlos Ferreira;478.166.874-36;carlos.ferreira@email.com;Poupanca;0001;39970-0;0.0;Débito;4440;0.0
+359;Lucas Nascimento;848.556.771-91;lucas.nascimento@email.com;Universitária;0001;14014-3;0.0;Crédito Infinite;4662;37432.35
+360;Maria Silva;417.915.768-71;maria.silva@email.com;Poupanca;0006;42085-1;0.0;Crédito Platinum;3035;43615.66
+361;Ricardo Costa;580.636.946-38;ricardo.costa@email.com;Corrente;0003;61946-8;2151.95;Débito;2545;0.0
+362;Fernando Costa;150.652.887-86;fernando.costa@email.com;Corrente;0006;52310-1;3377.09;Crédito Black;9474;4303.42
+363;João Nascimento;916.928.868-23;joão.nascimento@email.com;Universitária;0005;96917-0;0.0;Crédito Infinite;5405;32019.9
+364;Patrícia Santos;686.110.787-67;patrícia.santos@email.com;Poupanca;0006;25248-3;0.0;Crédito Platinum;3436;45386.56
+365;Patrícia Santos;316.272.955-85;patrícia.santos@email.com;Corrente;0008;36203-3;1362.9;Crédito Platinum;3088;42332.27
+366;Beatriz Pereira;168.852.685-56;beatriz.pereira@email.com;Universitária;0001;75609-1;0.0;Crédito Black;9904;6042.39
+367;Carlos Costa;865.315.411-31;carlos.costa@email.com;Universitária;0008;75547-6;0.0;Crédito Infinite;4503;15180.56
+368;João Souza;723.294.598-34;joão.souza@email.com;Poupanca;0004;29397-4;0.0;Crédito Platinum;3487;9893.67
+369;Lucas Silva;149.336.563-42;lucas.silva@email.com;Universitária;0003;49133-8;0.0;Crédito Platinum;8106;39467.61
+370;Fernando Costa;644.921.773-16;fernando.costa@email.com;Corrente;0008;51917-3;801.09;Crédito Platinum;1251;18306.93
+371;Patrícia Almeida;572.740.970-79;patrícia.almeida@email.com;Corrente;0004;29647-9;1886.38;Crédito Platinum;2933;8868.95
+372;Fernando Costa;266.732.753-58;fernando.costa@email.com;Universitária;0009;78946-7;0.0;Crédito Infinite;9941;34228.49
+373;Ana Pereira;627.490.878-21;ana.pereira@email.com;Universitária;0002;77523-5;0.0;Crédito Infinite;9852;45642.61
+374;Carlos Santos;736.765.491-86;carlos.santos@email.com;Universitária;0007;58256-9;0.0;Crédito Infinite;6720;46405.91
+375;Juliana Nascimento;576.177.245-41;juliana.nascimento@email.com;Corrente;0004;92235-5;4267.45;Crédito Black;6811;10450.57
+376;Ricardo Silva;193.686.638-79;ricardo.silva@email.com;Corrente;0009;60332-0;1167.56;Débito;1861;0.0
+377;Maria Santos;496.745.597-67;maria.santos@email.com;Poupanca;0004;94105-7;0.0;Crédito Infinite;3271;40175.18
+378;João Nascimento;588.942.671-67;joão.nascimento@email.com;Corrente;0008;75914-2;249.77;Crédito Platinum;1172;29036.55
+379;Ricardo Almeida;589.582.757-97;ricardo.almeida@email.com;Universitária;0001;50384-0;0.0;Crédito Black;4282;49408.61
+380;Carlos Pereira;269.131.769-34;carlos.pereira@email.com;Poupanca;0007;35206-5;0.0;Crédito Infinite;5461;38634.63
+381;João Silva;585.961.218-39;joão.silva@email.com;Corrente;0007;51589-9;3532.89;Crédito Platinum;6430;22227.7
+382;João Santos;564.769.512-76;joão.santos@email.com;Corrente;0005;89864-3;499.71;Débito;7392;0.0
+383;Carlos Pereira;652.894.594-69;carlos.pereira@email.com;Corrente;0008;18132-9;929.48;Crédito Infinite;7732;48383.98
+384;Maria Pereira;675.673.363-65;maria.pereira@email.com;Universitária;0007;62386-3;0.0;Crédito Infinite;8493;44623.8
+385;Maria Pereira;144.547.589-45;maria.pereira@email.com;Poupanca;0002;80363-8;0.0;Crédito Black;7827;46655.31
+386;Carlos Costa;765.695.374-59;carlos.costa@email.com;Poupanca;0010;47536-6;0.0;Crédito Black;5302;6902.73
+387;Lucas Ferreira;369.527.199-37;lucas.ferreira@email.com;Poupanca;0006;85147-0;0.0;Crédito Infinite;7395;38760.42
+388;Patrícia Ferreira;619.750.560-57;patrícia.ferreira@email.com;Universitária;0001;23610-7;0.0;Crédito Platinum;9423;18436.87
+389;Carlos Almeida;609.433.640-99;carlos.almeida@email.com;Corrente;0005;57156-5;4241.16;Crédito Platinum;8641;37403.72
+390;Ricardo Pereira;493.936.499-40;ricardo.pereira@email.com;Poupanca;0010;49870-2;0.0;Crédito Infinite;7018;49528.88
+391;Carlos Nascimento;312.397.257-61;carlos.nascimento@email.com;Universitária;0001;34009-0;0.0;Crédito Infinite;9082;15219.03
+392;Ricardo Pereira;504.273.596-19;ricardo.pereira@email.com;Poupanca;0008;56101-4;0.0;Crédito Platinum;7475;36833.63
+393;João Almeida;957.207.138-52;joão.almeida@email.com;Poupanca;0008;21175-0;0.0;Crédito Infinite;2665;5673.13
+394;Patrícia Almeida;553.472.186-87;patrícia.almeida@email.com;Poupanca;0008;91484-6;0.0;Crédito Infinite;3493;42957.6
+395;João Almeida;224.190.586-60;joão.almeida@email.com;Universitária;0010;46927-1;0.0;Crédito Black;6381;43595.72
+396;Fernando Almeida;295.866.876-75;fernando.almeida@email.com;Poupanca;0006;64799-2;0.0;Débito;6381;0.0
+397;Ana Souza;384.816.319-47;ana.souza@email.com;Universitária;0004;10812-8;0.0;Débito;4717;0.0
+398;João Almeida;584.911.261-97;joão.almeida@email.com;Poupanca;0006;27721-4;0.0;Crédito Platinum;4104;17109.6
+399;Beatriz Santos;478.121.279-19;beatriz.santos@email.com;Universitária;0007;49138-3;0.0;Crédito Black;1098;32530.19
+400;Juliana Ferreira;622.977.177-39;juliana.ferreira@email.com;Universitária;0008;67657-2;0.0;Crédito Infinite;6230;48005.78
+401;Juliana Oliveira;472.969.931-39;juliana.oliveira@email.com;Poupanca;0008;40864-2;0.0;Crédito Platinum;7125;46728.11
+402;João Ferreira;566.872.317-39;joão.ferreira@email.com;Poupanca;0002;94004-9;0.0;Débito;9716;0.0
+403;Maria Santos;657.153.155-45;maria.santos@email.com;Corrente;0007;19957-0;1222.95;Débito;8296;0.0
+404;Maria Nascimento;602.167.266-33;maria.nascimento@email.com;Poupanca;0010;95116-8;0.0;Crédito Black;7297;37883.42
+405;Ana Silva;426.129.311-28;ana.silva@email.com;Universitária;0001;30235-5;0.0;Crédito Black;7597;20017.82
+406;Beatriz Silva;178.499.671-14;beatriz.silva@email.com;Universitária;0002;97847-6;0.0;Débito;5129;0.0
+407;Carlos Costa;589.609.394-54;carlos.costa@email.com;Poupanca;0001;18626-1;0.0;Crédito Infinite;4059;29627.38
+408;Fernando Santos;697.844.591-90;fernando.santos@email.com;Poupanca;0010;84716-1;0.0;Débito;6323;0.0
+409;Carlos Santos;881.126.670-10;carlos.santos@email.com;Universitária;0008;57966-0;0.0;Crédito Infinite;2225;2337.23
+410;Ricardo Oliveira;239.164.755-34;ricardo.oliveira@email.com;Poupanca;0006;67608-6;0.0;Crédito Infinite;8867;25603.9
+411;Juliana Souza;417.253.417-75;juliana.souza@email.com;Corrente;0002;75916-2;1236.38;Crédito Infinite;7408;3626.41
+412;Lucas Nascimento;767.352.794-25;lucas.nascimento@email.com;Poupanca;0009;12265-5;0.0;Débito;7472;0.0
+413;Maria Nascimento;849.108.879-85;maria.nascimento@email.com;Corrente;0010;74099-1;725.07;Crédito Platinum;3728;34013.46
+414;Patrícia Pereira;916.396.567-40;patrícia.pereira@email.com;Universitária;0001;51244-8;0.0;Crédito Platinum;3613;49717.86
+415;Lucas Pereira;481.680.120-25;lucas.pereira@email.com;Corrente;0001;83982-3;2851.53;Crédito Platinum;8979;11337.38
+416;Lucas Souza;973.943.313-54;lucas.souza@email.com;Poupanca;0004;84314-2;0.0;Débito;5427;0.0
+417;Lucas Oliveira;463.491.224-26;lucas.oliveira@email.com;Universitária;0007;17387-3;0.0;Crédito Infinite;9982;26517.71
+418;Ana Souza;831.508.809-99;ana.souza@email.com;Corrente;0009;77054-2;357.55;Débito;9247;0.0
+419;Ana Oliveira;436.154.862-42;ana.oliveira@email.com;Corrente;0004;93579-9;2386.26;Crédito Platinum;8270;24026.22
+420;Juliana Almeida;469.804.166-28;juliana.almeida@email.com;Universitária;0001;50657-1;0.0;Crédito Platinum;4677;7685.99
+421;Ricardo Souza;934.790.103-86;ricardo.souza@email.com;Universitária;0006;12838-2;0.0;Crédito Infinite;4975;8991.53
+422;Ana Costa;844.832.842-82;ana.costa@email.com;Poupanca;0005;82920-8;0.0;Crédito Black;8918;7628.48
+423;Beatriz Almeida;438.589.359-22;beatriz.almeida@email.com;Poupanca;0006;21018-4;0.0;Crédito Infinite;6238;38764.82
+424;Lucas Oliveira;871.932.630-64;lucas.oliveira@email.com;Poupanca;0002;86245-6;0.0;Débito;9611;0.0
+425;João Nascimento;288.708.635-17;joão.nascimento@email.com;Universitária;0008;15289-4;0.0;Débito;9061;0.0
+426;Lucas Pereira;608.141.803-53;lucas.pereira@email.com;Poupanca;0010;72977-4;0.0;Crédito Black;1185;16126.84
+427;Fernando Silva;632.834.156-93;fernando.silva@email.com;Corrente;0001;94525-5;1864.21;Crédito Platinum;7358;9652.51
+428;Beatriz Nascimento;233.842.154-19;beatriz.nascimento@email.com;Corrente;0010;10464-0;672.52;Crédito Black;8382;22843.55
+429;Fernando Silva;327.652.120-29;fernando.silva@email.com;Corrente;0004;49492-7;3026.28;Débito;1115;0.0
+430;Patrícia Santos;289.550.592-74;patrícia.santos@email.com;Universitária;0008;80694-9;0.0;Crédito Infinite;3040;8431.5
+431;Maria Souza;299.217.525-90;maria.souza@email.com;Universitária;0010;33954-0;0.0;Crédito Black;4531;29277.16
+432;Patrícia Souza;213.448.963-93;patrícia.souza@email.com;Corrente;0010;35572-2;1262.32;Crédito Black;2993;2361.14
+433;Fernando Santos;372.978.857-26;fernando.santos@email.com;Corrente;0001;52448-0;1238.89;Débito;6731;0.0
+434;Juliana Almeida;274.100.525-15;juliana.almeida@email.com;Corrente;0010;99234-7;716.04;Débito;8715;0.0
+435;Ana Ferreira;884.848.285-97;ana.ferreira@email.com;Corrente;0003;41053-1;2699.41;Débito;1906;0.0
+436;Beatriz Nascimento;113.831.202-99;beatriz.nascimento@email.com;Corrente;0001;32522-7;342.4;Crédito Black;2046;16572.37
+437;Beatriz Souza;429.610.625-76;beatriz.souza@email.com;Universitária;0001;22146-6;0.0;Débito;8511;0.0
+438;Beatriz Nascimento;439.687.334-59;beatriz.nascimento@email.com;Poupanca;0010;71648-9;0.0;Crédito Infinite;8603;7076.52
+439;Maria Almeida;511.309.716-85;maria.almeida@email.com;Corrente;0002;94737-8;4993.52;Crédito Platinum;2217;2338.78
+440;Patrícia Pereira;995.157.353-87;patrícia.pereira@email.com;Universitária;0009;58528-7;0.0;Crédito Infinite;7506;12221.93
+441;Ana Pereira;643.967.852-58;ana.pereira@email.com;Corrente;0010;41078-7;3900.25;Débito;8854;0.0
+442;Ana Oliveira;578.664.201-42;ana.oliveira@email.com;Poupanca;0010;45511-1;0.0;Débito;2135;0.0
+443;Ricardo Nascimento;340.563.453-11;ricardo.nascimento@email.com;Poupanca;0007;51943-5;0.0;Crédito Platinum;8039;30495.2
+444;Juliana Santos;604.322.915-86;juliana.santos@email.com;Poupanca;0004;62737-3;0.0;Débito;5667;0.0
+445;Ana Silva;720.248.536-81;ana.silva@email.com;Universitária;0004;94198-0;0.0;Crédito Infinite;3156;45285.24
+446;Maria Souza;195.936.626-71;maria.souza@email.com;Poupanca;0003;47260-5;0.0;Crédito Platinum;2684;7264.06
+447;Juliana Souza;391.403.399-27;juliana.souza@email.com;Universitária;0005;69804-1;0.0;Débito;4954;0.0
+448;Maria Ferreira;765.641.103-26;maria.ferreira@email.com;Corrente;0003;89614-0;4122.89;Débito;3636;0.0
+449;Beatriz Ferreira;976.693.489-19;beatriz.ferreira@email.com;Corrente;0009;36835-3;3206.23;Crédito Infinite;5678;19244.66
+450;Ana Pereira;456.255.787-82;ana.pereira@email.com;Universitária;0006;33921-6;0.0;Crédito Black;5087;37014.89
+451;Patrícia Nascimento;276.512.295-87;patrícia.nascimento@email.com;Poupanca;0003;52878-0;0.0;Débito;8724;0.0
+452;Patrícia Almeida;776.662.737-47;patrícia.almeida@email.com;Poupanca;0004;99534-1;0.0;Crédito Black;6244;36894.71
+453;Ricardo Souza;412.653.107-37;ricardo.souza@email.com;Universitária;0007;23391-9;0.0;Crédito Black;6673;11512.58
+454;João Almeida;477.904.387-65;joão.almeida@email.com;Poupanca;0005;37140-1;0.0;Crédito Platinum;5739;44621.21
+455;João Souza;111.568.759-44;joão.souza@email.com;Corrente;0007;40925-9;4513.83;Crédito Infinite;4437;16919.61
+456;Carlos Oliveira;241.606.367-11;carlos.oliveira@email.com;Poupanca;0003;73778-1;0.0;Crédito Black;6562;40717.2
+457;Juliana Nascimento;503.254.604-41;juliana.nascimento@email.com;Universitária;0002;84372-9;0.0;Débito;7278;0.0
+458;Lucas Costa;993.655.424-91;lucas.costa@email.com;Universitária;0002;54601-6;0.0;Crédito Black;8407;7015.23
+459;João Silva;391.331.312-11;joão.silva@email.com;Corrente;0007;26431-0;4416.54;Crédito Platinum;8041;25260.56
+460;Patrícia Almeida;984.477.221-47;patrícia.almeida@email.com;Universitária;0001;64771-6;0.0;Crédito Infinite;1173;3704.15
+461;Fernando Pereira;168.522.429-94;fernando.pereira@email.com;Corrente;0002;55898-6;2284.63;Crédito Black;6896;44639.65
+462;Ricardo Ferreira;257.705.543-73;ricardo.ferreira@email.com;Poupanca;0005;40354-4;0.0;Crédito Infinite;1513;38898.13
+463;Ana Oliveira;745.990.436-42;ana.oliveira@email.com;Poupanca;0007;42672-0;0.0;Crédito Platinum;6713;6825.12
+464;Lucas Almeida;873.945.100-52;lucas.almeida@email.com;Corrente;0007;85293-0;4394.16;Débito;9948;0.0
+465;Carlos Almeida;383.669.177-69;carlos.almeida@email.com;Poupanca;0009;75719-0;0.0;Crédito Infinite;8857;21558.71
+466;Beatriz Nascimento;278.649.682-41;beatriz.nascimento@email.com;Corrente;0002;56155-8;1665.28;Crédito Infinite;2553;5013.17
+467;Patrícia Souza;487.265.200-63;patrícia.souza@email.com;Universitária;0006;44699-6;0.0;Débito;2616;0.0
+468;João Ferreira;412.213.262-52;joão.ferreira@email.com;Poupanca;0009;86124-0;0.0;Débito;2711;0.0
+469;Ana Pereira;352.670.755-64;ana.pereira@email.com;Corrente;0004;46405-9;593.13;Crédito Infinite;3073;38898.69
+470;Patrícia Ferreira;748.103.634-71;patrícia.ferreira@email.com;Universitária;0005;90303-3;0.0;Crédito Platinum;2047;29141.69
+471;Ana Souza;468.174.466-10;ana.souza@email.com;Universitária;0007;82109-6;0.0;Crédito Infinite;6939;16052.14
+472;Carlos Silva;974.287.795-99;carlos.silva@email.com;Poupanca;0002;92558-0;0.0;Crédito Platinum;5612;10647.57
+473;João Santos;118.738.238-92;joão.santos@email.com;Poupanca;0003;17404-8;0.0;Débito;2964;0.0
+474;João Nascimento;551.933.127-66;joão.nascimento@email.com;Universitária;0010;17832-4;0.0;Crédito Black;3264;9224.95
+475;Patrícia Costa;106.880.375-95;patrícia.costa@email.com;Universitária;0008;88008-9;0.0;Crédito Platinum;7736;32121.07
+476;Lucas Silva;488.799.897-77;lucas.silva@email.com;Corrente;0008;65834-2;4364.46;Débito;3446;0.0
+477;João Almeida;944.950.855-69;joão.almeida@email.com;Corrente;0005;53826-6;4634.54;Crédito Black;6295;36214.88
+478;Lucas Silva;623.100.662-32;lucas.silva@email.com;Corrente;0006;93142-2;1979.87;Crédito Black;6746;16512.8
+479;Patrícia Silva;690.375.394-49;patrícia.silva@email.com;Corrente;0001;30259-4;2779.21;Crédito Black;9191;15798.46
+480;Fernando Pereira;657.349.863-61;fernando.pereira@email.com;Poupanca;0006;72157-5;0.0;Débito;8921;0.0
+481;João Souza;495.536.458-88;joão.souza@email.com;Universitária;0003;38243-8;0.0;Débito;9539;0.0
+482;Ricardo Pereira;264.638.130-47;ricardo.pereira@email.com;Poupanca;0001;60761-4;0.0;Crédito Black;8200;7127.75
+483;Juliana Santos;388.710.540-24;juliana.santos@email.com;Corrente;0001;26761-3;3328.26;Débito;7922;0.0
+484;Maria Almeida;328.251.462-50;maria.almeida@email.com;Corrente;0001;49933-3;1200.21;Crédito Infinite;1171;39898.89
+485;Carlos Ferreira;495.453.811-90;carlos.ferreira@email.com;Corrente;0003;38673-0;3159.52;Crédito Infinite;9674;42946.19
+486;Beatriz Costa;218.825.702-75;beatriz.costa@email.com;Corrente;0001;89814-2;3506.34;Débito;6274;0.0
+487;Ricardo Oliveira;273.642.767-35;ricardo.oliveira@email.com;Poupanca;0007;51349-7;0.0;Crédito Platinum;7044;26759.43
+488;Juliana Ferreira;948.320.516-90;juliana.ferreira@email.com;Corrente;0007;15053-3;3015.5;Crédito Infinite;8694;30784.18
+489;Carlos Silva;863.854.410-53;carlos.silva@email.com;Poupanca;0005;70695-9;0.0;Crédito Infinite;5981;24366.66
+490;Ana Pereira;581.470.563-86;ana.pereira@email.com;Universitária;0004;33711-0;0.0;Crédito Infinite;8835;46501.71
+491;Patrícia Pereira;694.419.220-90;patrícia.pereira@email.com;Universitária;0003;65817-2;0.0;Débito;4537;0.0
+492;Ricardo Souza;853.661.824-49;ricardo.souza@email.com;Poupanca;0005;26890-9;0.0;Débito;5311;0.0
+493;Carlos Pereira;401.158.189-57;carlos.pereira@email.com;Corrente;0003;27610-8;4193.63;Débito;3888;0.0
+494;Beatriz Ferreira;320.697.195-67;beatriz.ferreira@email.com;Poupanca;0009;93552-7;0.0;Crédito Infinite;4628;17539.79
+495;Lucas Nascimento;682.383.376-32;lucas.nascimento@email.com;Poupanca;0005;24314-1;0.0;Crédito Platinum;3340;20903.91
+496;Ana Ferreira;307.479.830-48;ana.ferreira@email.com;Poupanca;0009;52550-9;0.0;Débito;9569;0.0
+497;Fernando Silva;879.410.487-96;fernando.silva@email.com;Universitária;0005;60347-7;0.0;Crédito Platinum;8436;28856.64
+498;Patrícia Almeida;621.280.674-48;patrícia.almeida@email.com;Corrente;0006;23847-1;312.78;Débito;4917;0.0
+499;Ana Pereira;621.743.369-54;ana.pereira@email.com;Poupanca;0009;29854-1;0.0;Crédito Platinum;5787;15068.18
+500;Lucas Costa;104.336.125-27;lucas.costa@email.com;Corrente;0005;70727-9;756.81;Crédito Infinite;9821;35659.55
+501;Beatriz Ferreira;271.833.281-67;beatriz.ferreira@email.com;Corrente;0007;15923-9;3425.98;Crédito Platinum;6891;24137.28
+502;Fernando Silva;286.314.244-38;fernando.silva@email.com;Universitária;0001;83326-4;0.0;Crédito Black;5496;9395.14
+503;Maria Silva;221.623.589-54;maria.silva@email.com;Poupanca;0007;38130-3;0.0;Crédito Platinum;6456;33692.02
+504;Patrícia Ferreira;637.301.492-62;patrícia.ferreira@email.com;Poupanca;0002;57571-2;0.0;Crédito Platinum;3605;23594.39
+505;Juliana Almeida;167.877.336-52;juliana.almeida@email.com;Poupanca;0004;44710-4;0.0;Crédito Black;2819;7356.63
+506;João Almeida;882.901.542-18;joão.almeida@email.com;Universitária;0001;88752-8;0.0;Crédito Infinite;5107;9979.33
+507;Beatriz Almeida;115.623.181-82;beatriz.almeida@email.com;Universitária;0006;67397-2;0.0;Débito;7886;0.0
+508;João Nascimento;198.409.374-12;joão.nascimento@email.com;Poupanca;0007;31796-5;0.0;Débito;1195;0.0
+509;Juliana Ferreira;628.524.866-89;juliana.ferreira@email.com;Corrente;0005;95457-0;3597.68;Crédito Platinum;5789;7721.21
+510;Maria Oliveira;909.927.777-90;maria.oliveira@email.com;Corrente;0004;73643-2;1428.7;Débito;4608;0.0
+511;Beatriz Nascimento;524.847.741-79;beatriz.nascimento@email.com;Universitária;0008;45830-6;0.0;Crédito Platinum;8639;49126.65
+512;Beatriz Ferreira;219.227.361-32;beatriz.ferreira@email.com;Corrente;0004;71912-6;3493.88;Crédito Platinum;6367;14829.57
+513;Lucas Costa;184.645.641-77;lucas.costa@email.com;Poupanca;0002;95623-7;0.0;Crédito Infinite;9891;5917.54
+514;Lucas Costa;900.500.976-27;lucas.costa@email.com;Universitária;0004;75031-7;0.0;Débito;5519;0.0
+515;Fernando Nascimento;609.719.282-24;fernando.nascimento@email.com;Poupanca;0001;11531-4;0.0;Crédito Platinum;1543;5889.97
+516;Maria Oliveira;725.313.809-69;maria.oliveira@email.com;Poupanca;0005;36083-6;0.0;Crédito Platinum;3130;2717.3
+517;Patrícia Souza;856.885.272-37;patrícia.souza@email.com;Universitária;0004;95765-7;0.0;Crédito Black;2749;38805.91
+518;Fernando Ferreira;364.480.249-59;fernando.ferreira@email.com;Poupanca;0001;36221-5;0.0;Débito;7813;0.0
+519;Ricardo Nascimento;314.339.822-82;ricardo.nascimento@email.com;Poupanca;0009;48261-1;0.0;Débito;7662;0.0
+520;Ricardo Pereira;821.946.150-80;ricardo.pereira@email.com;Poupanca;0009;61044-1;0.0;Crédito Platinum;3727;9026.43
+521;Carlos Oliveira;116.180.992-10;carlos.oliveira@email.com;Poupanca;0005;74704-7;0.0;Crédito Platinum;6958;14842.47
+522;Ricardo Souza;208.305.941-25;ricardo.souza@email.com;Universitária;0008;61097-8;0.0;Crédito Infinite;7670;49039.51
+523;Juliana Oliveira;732.489.373-31;juliana.oliveira@email.com;Universitária;0010;25772-9;0.0;Crédito Infinite;9964;47717.57
+524;Juliana Ferreira;247.689.394-87;juliana.ferreira@email.com;Universitária;0005;57604-9;0.0;Crédito Platinum;8213;32396.62
+525;Ricardo Souza;879.350.602-69;ricardo.souza@email.com;Universitária;0007;33088-0;0.0;Crédito Infinite;4463;9487.14
+526;Maria Souza;330.325.306-80;maria.souza@email.com;Poupanca;0009;46026-6;0.0;Crédito Black;4654;11728.45
+527;Carlos Nascimento;119.254.572-67;carlos.nascimento@email.com;Universitária;0004;69458-1;0.0;Crédito Infinite;2881;21093.27
+528;Maria Souza;391.198.321-52;maria.souza@email.com;Poupanca;0010;86305-0;0.0;Crédito Infinite;1745;48185.69
+529;João Costa;521.667.472-99;joão.costa@email.com;Corrente;0009;40733-6;3179.48;Débito;3899;0.0
+530;Beatriz Costa;911.951.195-23;beatriz.costa@email.com;Poupanca;0001;75101-4;0.0;Débito;6059;0.0
+531;Ana Almeida;543.860.800-35;ana.almeida@email.com;Corrente;0001;95043-3;1740.15;Crédito Infinite;6414;42532.73
+532;Carlos Souza;656.167.824-35;carlos.souza@email.com;Universitária;0005;61470-9;0.0;Crédito Infinite;5527;32106.64
+533;Fernando Silva;160.974.615-42;fernando.silva@email.com;Universitária;0003;22632-8;0.0;Débito;7609;0.0
+534;Fernando Silva;493.368.290-21;fernando.silva@email.com;Universitária;0004;52070-5;0.0;Crédito Platinum;8996;39855.97
+535;João Silva;598.225.690-80;joão.silva@email.com;Corrente;0001;61472-3;847.69;Crédito Infinite;2563;31694.54
+536;Beatriz Souza;736.260.900-49;beatriz.souza@email.com;Poupanca;0002;12000-9;0.0;Crédito Black;9596;1980.64
+537;Fernando Pereira;201.612.319-87;fernando.pereira@email.com;Corrente;0004;62823-3;187.72;Crédito Infinite;6659;17027.72
+538;Ricardo Santos;691.312.882-20;ricardo.santos@email.com;Corrente;0004;38304-8;904.72;Crédito Infinite;1412;37031.75
+539;Lucas Ferreira;996.289.931-28;lucas.ferreira@email.com;Corrente;0006;82482-4;631.0;Crédito Infinite;2793;13171.08
+540;Juliana Nascimento;420.188.601-23;juliana.nascimento@email.com;Corrente;0002;33505-4;2925.66;Crédito Black;1231;39345.77
+541;Beatriz Almeida;423.167.218-41;beatriz.almeida@email.com;Corrente;0003;67317-0;4477.81;Débito;1088;0.0
+542;Lucas Ferreira;506.399.329-32;lucas.ferreira@email.com;Universitária;0002;67678-0;0.0;Crédito Black;9931;5415.32
+543;Ricardo Oliveira;998.397.996-77;ricardo.oliveira@email.com;Corrente;0007;23506-8;4622.41;Débito;2193;0.0
+544;Ricardo Costa;933.867.761-53;ricardo.costa@email.com;Corrente;0002;17203-0;3492.23;Crédito Platinum;2031;29453.13
+545;Beatriz Santos;922.460.375-56;beatriz.santos@email.com;Poupanca;0004;76218-4;0.0;Crédito Black;1370;34802.3
+546;Ana Almeida;989.742.140-26;ana.almeida@email.com;Poupanca;0002;84382-1;0.0;Débito;8388;0.0
+547;Ricardo Pereira;708.935.811-45;ricardo.pereira@email.com;Poupanca;0007;56758-3;0.0;Débito;7258;0.0
+548;Beatriz Costa;314.180.105-68;beatriz.costa@email.com;Corrente;0010;56828-6;1483.24;Débito;2757;0.0
+549;Beatriz Almeida;896.194.388-17;beatriz.almeida@email.com;Poupanca;0001;29361-9;0.0;Débito;2416;0.0
+550;Maria Pereira;662.487.202-76;maria.pereira@email.com;Universitária;0006;45911-3;0.0;Débito;1689;0.0
+551;Ricardo Almeida;483.845.306-18;ricardo.almeida@email.com;Corrente;0001;74022-0;4687.03;Débito;3965;0.0
+552;Ana Costa;499.297.625-20;ana.costa@email.com;Universitária;0005;92483-0;0.0;Débito;7484;0.0
+553;Beatriz Almeida;101.637.554-72;beatriz.almeida@email.com;Corrente;0010;90063-1;1225.87;Débito;6811;0.0
+554;João Nascimento;889.575.490-40;joão.nascimento@email.com;Poupanca;0007;49408-2;0.0;Débito;2012;0.0
+555;Fernando Souza;155.214.997-89;fernando.souza@email.com;Corrente;0005;65403-8;1710.16;Crédito Infinite;3546;12638.44
+556;Maria Costa;578.762.580-81;maria.costa@email.com;Corrente;0008;38704-3;843.29;Débito;5938;0.0
+557;Maria Oliveira;877.529.874-17;maria.oliveira@email.com;Poupanca;0002;29279-2;0.0;Crédito Platinum;3263;1558.0
+558;Juliana Almeida;430.888.306-29;juliana.almeida@email.com;Universitária;0010;93780-6;0.0;Crédito Black;4173;9327.52
+559;Beatriz Ferreira;419.404.482-43;beatriz.ferreira@email.com;Universitária;0003;40346-5;0.0;Débito;4244;0.0
+560;Carlos Ferreira;937.725.717-97;carlos.ferreira@email.com;Poupanca;0005;72849-6;0.0;Crédito Infinite;7899;31187.97
+561;Patrícia Ferreira;948.328.653-18;patrícia.ferreira@email.com;Corrente;0007;56394-9;2510.76;Crédito Black;1341;17443.76
+562;Carlos Costa;570.157.692-29;carlos.costa@email.com;Universitária;0002;93570-4;0.0;Crédito Infinite;4939;1818.27
+563;Lucas Pereira;556.900.812-53;lucas.pereira@email.com;Corrente;0007;42986-7;1170.22;Crédito Infinite;6014;27212.88
+564;Ricardo Pereira;715.441.831-32;ricardo.pereira@email.com;Corrente;0004;73916-7;4955.96;Crédito Black;9516;9956.76
+565;Patrícia Santos;951.767.401-34;patrícia.santos@email.com;Poupanca;0001;75671-7;0.0;Crédito Black;5107;2939.14
+566;João Oliveira;885.495.477-91;joão.oliveira@email.com;Poupanca;0010;27807-2;0.0;Crédito Platinum;6757;3091.79
+567;Maria Nascimento;901.990.407-87;maria.nascimento@email.com;Universitária;0007;20652-7;0.0;Débito;2768;0.0
+568;Lucas Ferreira;751.450.815-59;lucas.ferreira@email.com;Poupanca;0003;34727-6;0.0;Crédito Platinum;6149;25685.87
+569;Carlos Oliveira;817.134.481-26;carlos.oliveira@email.com;Corrente;0009;16641-8;2750.64;Crédito Platinum;3568;17187.2
+570;Carlos Souza;909.553.731-28;carlos.souza@email.com;Corrente;0006;13216-3;4718.19;Crédito Black;5959;2097.02
+571;João Silva;346.241.689-96;joão.silva@email.com;Poupanca;0003;92519-6;0.0;Crédito Infinite;4059;3748.87
+572;Patrícia Oliveira;562.634.674-78;patrícia.oliveira@email.com;Poupanca;0004;87766-0;0.0;Débito;5429;0.0
+573;Ricardo Nascimento;793.587.881-49;ricardo.nascimento@email.com;Universitária;0004;43215-5;0.0;Débito;1121;0.0
+574;Maria Oliveira;101.925.561-82;maria.oliveira@email.com;Corrente;0004;50979-4;104.12;Crédito Infinite;4256;11352.0
+575;Ana Nascimento;226.446.589-17;ana.nascimento@email.com;Poupanca;0003;93911-2;0.0;Crédito Platinum;8473;31208.14
+576;Carlos Almeida;586.781.344-24;carlos.almeida@email.com;Corrente;0004;17121-1;1596.54;Débito;7789;0.0
+577;Carlos Costa;750.511.611-72;carlos.costa@email.com;Universitária;0007;46244-0;0.0;Crédito Infinite;3038;6838.28
+578;Carlos Oliveira;395.647.249-21;carlos.oliveira@email.com;Corrente;0007;66002-0;1820.54;Crédito Infinite;9856;3180.05
+579;Beatriz Oliveira;982.586.369-28;beatriz.oliveira@email.com;Universitária;0008;41492-9;0.0;Crédito Black;4470;44117.32
+580;Fernando Costa;296.604.797-72;fernando.costa@email.com;Corrente;0002;67738-4;2778.45;Débito;5879;0.0
+581;João Nascimento;898.989.445-12;joão.nascimento@email.com;Universitária;0005;80949-5;0.0;Crédito Platinum;9924;15555.83
+582;Juliana Costa;396.490.435-79;juliana.costa@email.com;Universitária;0006;81493-2;0.0;Débito;4921;0.0
+583;Ricardo Souza;684.718.415-34;ricardo.souza@email.com;Corrente;0002;39420-1;4016.28;Crédito Black;2044;20736.5
+584;Juliana Silva;316.608.474-43;juliana.silva@email.com;Corrente;0002;94131-2;4981.64;Crédito Black;4847;46935.53
+585;Fernando Almeida;644.319.357-26;fernando.almeida@email.com;Universitária;0008;73587-3;0.0;Crédito Black;4767;15203.49
+586;Patrícia Oliveira;391.290.261-54;patrícia.oliveira@email.com;Poupanca;0007;12675-5;0.0;Crédito Platinum;3547;26225.07
+587;João Silva;547.951.747-98;joão.silva@email.com;Universitária;0007;34992-5;0.0;Débito;2993;0.0
+588;Beatriz Silva;657.679.860-96;beatriz.silva@email.com;Poupanca;0003;26608-4;0.0;Débito;3383;0.0
+589;Patrícia Souza;741.137.465-26;patrícia.souza@email.com;Corrente;0010;65941-5;527.84;Crédito Black;7196;27772.14
+590;Patrícia Pereira;773.802.479-74;patrícia.pereira@email.com;Universitária;0007;65451-3;0.0;Crédito Black;3237;20214.04
+591;Fernando Ferreira;316.990.869-42;fernando.ferreira@email.com;Poupanca;0004;68617-4;0.0;Crédito Infinite;6363;14654.84
+592;Juliana Ferreira;969.535.389-80;juliana.ferreira@email.com;Universitária;0002;52463-9;0.0;Crédito Infinite;9383;49300.93
+593;Maria Ferreira;217.786.791-84;maria.ferreira@email.com;Poupanca;0004;11188-1;0.0;Débito;1568;0.0
+594;Juliana Costa;972.684.214-31;juliana.costa@email.com;Universitária;0010;38793-3;0.0;Débito;3482;0.0
+595;Ana Almeida;435.465.254-88;ana.almeida@email.com;Universitária;0008;40782-1;0.0;Crédito Platinum;5008;28709.33
+596;Fernando Costa;928.308.933-40;fernando.costa@email.com;Poupanca;0003;62476-5;0.0;Débito;5641;0.0
+597;Patrícia Ferreira;678.435.179-70;patrícia.ferreira@email.com;Universitária;0010;56886-0;0.0;Crédito Infinite;4046;12430.29
+598;Ricardo Nascimento;416.395.605-79;ricardo.nascimento@email.com;Corrente;0009;86699-6;4321.16;Débito;9117;0.0
+599;Juliana Costa;764.644.486-84;juliana.costa@email.com;Poupanca;0007;20393-5;0.0;Crédito Infinite;7855;46765.89
+600;Fernando Silva;213.498.321-83;fernando.silva@email.com;Corrente;0003;85910-5;2779.94;Crédito Infinite;6530;32656.5
+601;Fernando Nascimento;104.625.427-64;fernando.nascimento@email.com;Poupanca;0002;11245-8;0.0;Crédito Black;3974;28580.01
+602;Carlos Pereira;448.656.314-83;carlos.pereira@email.com;Poupanca;0005;24145-0;0.0;Crédito Platinum;8834;11682.02
+603;Lucas Nascimento;764.590.495-73;lucas.nascimento@email.com;Corrente;0005;43467-8;2742.28;Crédito Black;3942;37055.65
+604;Ana Oliveira;535.809.740-91;ana.oliveira@email.com;Corrente;0001;30534-3;3050.8;Débito;8668;0.0
+605;Maria Silva;126.788.825-63;maria.silva@email.com;Universitária;0010;56717-8;0.0;Crédito Platinum;6785;33113.9
+606;Juliana Nascimento;113.239.893-69;juliana.nascimento@email.com;Corrente;0009;56039-0;948.45;Crédito Infinite;1711;48683.57
+607;João Costa;755.201.713-61;joão.costa@email.com;Universitária;0002;19416-9;0.0;Crédito Platinum;7162;40687.84
+608;Fernando Nascimento;558.121.755-86;fernando.nascimento@email.com;Poupanca;0004;70598-0;0.0;Crédito Black;3872;27150.44
+609;João Silva;985.143.103-41;joão.silva@email.com;Universitária;0004;85205-7;0.0;Débito;6031;0.0
+610;Ricardo Ferreira;898.656.760-48;ricardo.ferreira@email.com;Corrente;0004;91576-8;4588.25;Débito;6592;0.0
+611;Maria Silva;723.563.693-11;maria.silva@email.com;Poupanca;0004;54017-7;0.0;Débito;7911;0.0
+612;Beatriz Silva;345.377.980-76;beatriz.silva@email.com;Universitária;0002;43572-0;0.0;Crédito Infinite;5788;7457.61
+613;Beatriz Oliveira;206.736.770-64;beatriz.oliveira@email.com;Poupanca;0002;58276-1;0.0;Crédito Platinum;3234;5934.84
+614;Maria Oliveira;965.780.358-18;maria.oliveira@email.com;Universitária;0004;30682-2;0.0;Crédito Black;8442;6021.86
+615;Lucas Santos;635.136.891-45;lucas.santos@email.com;Poupanca;0002;18325-0;0.0;Crédito Infinite;4904;18971.93
+616;Ana Costa;626.993.468-91;ana.costa@email.com;Universitária;0008;83865-3;0.0;Crédito Black;9048;7874.44
+617;Beatriz Nascimento;479.678.213-97;beatriz.nascimento@email.com;Poupanca;0006;69565-6;0.0;Crédito Platinum;7051;25458.34
+618;Patrícia Nascimento;997.593.125-32;patrícia.nascimento@email.com;Poupanca;0008;85741-8;0.0;Débito;1374;0.0
+619;Lucas Ferreira;410.412.152-42;lucas.ferreira@email.com;Universitária;0004;11479-8;0.0;Crédito Platinum;5755;5262.97
+620;Lucas Pereira;876.731.754-62;lucas.pereira@email.com;Corrente;0006;35407-5;3107.22;Crédito Platinum;5178;20342.31
+621;Fernando Nascimento;366.327.178-79;fernando.nascimento@email.com;Universitária;0008;10917-3;0.0;Crédito Infinite;5348;15025.98
+622;Patrícia Ferreira;702.478.482-15;patrícia.ferreira@email.com;Poupanca;0006;10433-1;0.0;Crédito Platinum;4682;37651.88
+623;Patrícia Ferreira;721.318.636-15;patrícia.ferreira@email.com;Poupanca;0005;38454-7;0.0;Crédito Black;9526;39070.81
+624;Carlos Costa;802.830.896-70;carlos.costa@email.com;Universitária;0007;47916-1;0.0;Crédito Black;9775;6242.83
+625;Carlos Costa;195.730.463-29;carlos.costa@email.com;Poupanca;0007;23177-8;0.0;Crédito Platinum;4585;29301.17
+626;Maria Oliveira;254.676.325-35;maria.oliveira@email.com;Poupanca;0004;72734-6;0.0;Crédito Platinum;6983;48522.48
+627;João Costa;256.478.901-47;joão.costa@email.com;Poupanca;0001;90190-8;0.0;Crédito Black;6231;10335.68
+628;Patrícia Oliveira;988.316.218-92;patrícia.oliveira@email.com;Universitária;0006;69416-8;0.0;Débito;3513;0.0
+629;Ricardo Silva;960.279.145-74;ricardo.silva@email.com;Poupanca;0006;20241-4;0.0;Crédito Black;7142;40792.73
+630;Ana Pereira;604.662.933-92;ana.pereira@email.com;Universitária;0004;14257-2;0.0;Débito;3250;0.0
+631;Fernando Silva;775.134.996-28;fernando.silva@email.com;Poupanca;0006;35761-8;0.0;Débito;2099;0.0
+632;Fernando Pereira;326.168.659-31;fernando.pereira@email.com;Corrente;0003;61376-7;3952.37;Débito;9104;0.0
+633;Carlos Oliveira;896.300.941-30;carlos.oliveira@email.com;Universitária;0001;53865-5;0.0;Crédito Infinite;6799;41313.81
+634;Lucas Almeida;447.646.417-49;lucas.almeida@email.com;Universitária;0004;52352-2;0.0;Crédito Platinum;2148;29210.44
+635;Maria Souza;270.995.447-95;maria.souza@email.com;Universitária;0005;42308-1;0.0;Débito;8339;0.0
+636;Juliana Almeida;821.340.594-95;juliana.almeida@email.com;Universitária;0004;18505-4;0.0;Crédito Black;2332;23793.43
+637;Juliana Santos;762.745.589-98;juliana.santos@email.com;Poupanca;0008;12204-6;0.0;Crédito Platinum;8965;36714.28
+638;Patrícia Ferreira;550.213.222-30;patrícia.ferreira@email.com;Poupanca;0003;73525-0;0.0;Débito;4574;0.0
+639;Carlos Santos;416.518.307-37;carlos.santos@email.com;Universitária;0006;44647-6;0.0;Débito;7667;0.0
+640;Carlos Silva;271.278.661-32;carlos.silva@email.com;Universitária;0009;90096-8;0.0;Crédito Platinum;5195;35079.6
+641;Ana Ferreira;370.740.463-58;ana.ferreira@email.com;Corrente;0004;98254-0;3570.96;Crédito Platinum;6926;34749.1
+642;Lucas Costa;213.438.966-50;lucas.costa@email.com;Universitária;0002;48569-0;0.0;Crédito Infinite;1504;9946.27
+643;Lucas Almeida;516.494.853-58;lucas.almeida@email.com;Corrente;0002;71338-5;3051.23;Débito;2509;0.0
+644;Carlos Almeida;911.203.276-37;carlos.almeida@email.com;Corrente;0003;25671-1;1103.3;Crédito Platinum;6432;31350.91
+645;João Ferreira;612.335.734-42;joão.ferreira@email.com;Universitária;0005;56177-2;0.0;Crédito Infinite;3123;3731.31
+646;Ricardo Souza;431.164.494-82;ricardo.souza@email.com;Universitária;0008;72019-9;0.0;Crédito Infinite;9130;18154.33
+647;João Costa;952.692.374-36;joão.costa@email.com;Universitária;0008;71614-9;0.0;Crédito Platinum;2060;31838.97
+648;Ana Santos;186.454.650-16;ana.santos@email.com;Poupanca;0006;95262-0;0.0;Crédito Platinum;2386;26020.27
+649;Ana Costa;278.654.890-89;ana.costa@email.com;Poupanca;0003;26435-2;0.0;Débito;4673;0.0
+650;Beatriz Santos;183.388.899-40;beatriz.santos@email.com;Poupanca;0009;52063-0;0.0;Débito;4307;0.0
+651;João Nascimento;980.117.138-21;joão.nascimento@email.com;Corrente;0002;89305-4;277.25;Crédito Platinum;8931;10290.96
+652;Patrícia Oliveira;135.460.153-19;patrícia.oliveira@email.com;Universitária;0009;59209-3;0.0;Crédito Infinite;7750;36885.25
+653;Ricardo Souza;548.217.141-46;ricardo.souza@email.com;Universitária;0002;82752-8;0.0;Débito;7527;0.0
+654;Maria Ferreira;941.105.228-32;maria.ferreira@email.com;Poupanca;0006;77365-0;0.0;Débito;9648;0.0
+655;Ana Costa;532.945.968-18;ana.costa@email.com;Poupanca;0001;94626-5;0.0;Crédito Platinum;2487;46632.57
+656;Juliana Silva;351.985.937-99;juliana.silva@email.com;Poupanca;0005;40354-8;0.0;Débito;1857;0.0
+657;Fernando Pereira;598.598.489-52;fernando.pereira@email.com;Corrente;0006;48276-3;4509.7;Débito;9417;0.0
+658;Fernando Nascimento;945.304.957-38;fernando.nascimento@email.com;Corrente;0009;18839-2;2582.18;Crédito Platinum;6283;3451.98
+659;Lucas Almeida;856.473.809-36;lucas.almeida@email.com;Poupanca;0002;87460-2;0.0;Crédito Black;1375;49836.4
+660;Maria Souza;870.134.945-75;maria.souza@email.com;Poupanca;0008;13965-1;0.0;Crédito Infinite;9460;33372.73
+661;Carlos Costa;559.937.867-33;carlos.costa@email.com;Corrente;0010;88310-4;51.11;Crédito Infinite;1442;41502.16
+662;Lucas Oliveira;995.698.726-99;lucas.oliveira@email.com;Universitária;0002;90861-0;0.0;Crédito Black;2986;34215.82
+663;Patrícia Santos;147.812.247-48;patrícia.santos@email.com;Poupanca;0003;20212-8;0.0;Crédito Black;5701;26044.72
+664;Fernando Ferreira;602.542.169-98;fernando.ferreira@email.com;Corrente;0008;83403-3;493.55;Crédito Infinite;8980;19028.15
+665;Fernando Oliveira;259.894.647-43;fernando.oliveira@email.com;Poupanca;0008;94744-9;0.0;Crédito Platinum;3457;38970.69
+666;Ana Souza;618.225.200-64;ana.souza@email.com;Corrente;0005;62080-4;2995.12;Crédito Infinite;6133;20668.21
+667;Lucas Ferreira;865.549.763-97;lucas.ferreira@email.com;Corrente;0008;78882-7;4439.19;Crédito Infinite;6375;23255.41
+668;Lucas Silva;205.971.194-43;lucas.silva@email.com;Corrente;0010;81552-4;4892.22;Débito;8979;0.0
+669;Juliana Souza;484.365.605-71;juliana.souza@email.com;Poupanca;0010;24736-4;0.0;Crédito Black;8968;11604.62
+670;João Oliveira;734.657.154-62;joão.oliveira@email.com;Corrente;0002;50236-7;3635.55;Crédito Black;8547;39855.48
+671;Beatriz Pereira;969.889.560-55;beatriz.pereira@email.com;Poupanca;0005;22112-5;0.0;Crédito Black;2299;4106.64
+672;Fernando Oliveira;101.202.858-35;fernando.oliveira@email.com;Corrente;0006;73434-7;1412.05;Crédito Platinum;8818;38575.27
+673;Ricardo Ferreira;582.649.978-84;ricardo.ferreira@email.com;Poupanca;0010;96269-9;0.0;Crédito Black;4102;27413.27
+674;Carlos Ferreira;685.983.763-21;carlos.ferreira@email.com;Corrente;0002;81868-0;1265.88;Crédito Black;1320;33431.94
+675;Ricardo Nascimento;138.847.595-23;ricardo.nascimento@email.com;Poupanca;0006;47568-0;0.0;Crédito Black;5767;16076.95
+676;Beatriz Souza;387.264.103-59;beatriz.souza@email.com;Corrente;0009;44796-1;4115.23;Crédito Platinum;4578;2516.31
+677;Fernando Souza;864.482.453-88;fernando.souza@email.com;Poupanca;0001;72406-3;0.0;Crédito Black;2512;10158.2
+678;Ana Pereira;146.961.249-17;ana.pereira@email.com;Poupanca;0004;16621-4;0.0;Crédito Black;6185;49069.28
+679;João Nascimento;955.193.565-99;joão.nascimento@email.com;Corrente;0001;43362-1;1739.64;Crédito Black;2180;38119.94
+680;Beatriz Almeida;201.898.676-46;beatriz.almeida@email.com;Corrente;0009;71616-6;2862.63;Crédito Black;6263;8515.48
+681;Juliana Costa;419.228.530-72;juliana.costa@email.com;Poupanca;0006;14652-4;0.0;Crédito Infinite;4748;31768.86
+682;João Costa;342.687.790-26;joão.costa@email.com;Universitária;0006;99155-9;0.0;Débito;1598;0.0
+683;Carlos Santos;454.985.894-26;carlos.santos@email.com;Universitária;0004;98750-2;0.0;Crédito Infinite;9342;43692.4
+684;Lucas Santos;428.267.284-65;lucas.santos@email.com;Corrente;0009;16143-1;3118.72;Crédito Infinite;3783;2325.94
+685;Juliana Pereira;549.446.598-82;juliana.pereira@email.com;Poupanca;0010;79932-6;0.0;Crédito Black;1841;49818.54
+686;Beatriz Souza;881.545.894-92;beatriz.souza@email.com;Poupanca;0007;58607-1;0.0;Crédito Black;1617;34484.89
+687;João Ferreira;607.607.293-42;joão.ferreira@email.com;Corrente;0003;19101-9;1601.6;Crédito Platinum;8636;33507.34
+688;Lucas Oliveira;315.848.379-18;lucas.oliveira@email.com;Corrente;0006;45740-2;359.46;Débito;4026;0.0
+689;Patrícia Nascimento;423.297.266-41;patrícia.nascimento@email.com;Poupanca;0002;83981-8;0.0;Crédito Platinum;4068;35805.55
+690;Juliana Nascimento;571.352.321-48;juliana.nascimento@email.com;Corrente;0005;82604-5;1282.62;Crédito Infinite;9380;13969.97
+691;Carlos Ferreira;131.442.970-88;carlos.ferreira@email.com;Poupanca;0006;37285-4;0.0;Crédito Black;8696;4585.87
+692;João Costa;440.766.993-94;joão.costa@email.com;Poupanca;0008;11713-9;0.0;Débito;1002;0.0
+693;Ana Nascimento;858.465.607-97;ana.nascimento@email.com;Corrente;0010;60673-9;2944.99;Crédito Infinite;1981;47695.95
+694;Carlos Ferreira;638.181.642-78;carlos.ferreira@email.com;Corrente;0003;81579-4;1515.09;Débito;6607;0.0
+695;Ana Oliveira;344.282.611-80;ana.oliveira@email.com;Poupanca;0008;48566-1;0.0;Débito;8137;0.0
+696;João Oliveira;844.423.132-27;joão.oliveira@email.com;Poupanca;0002;56472-8;0.0;Crédito Black;3809;7599.06
+697;Fernando Ferreira;686.270.201-46;fernando.ferreira@email.com;Poupanca;0004;16766-5;0.0;Crédito Platinum;3639;4000.68
+698;Juliana Pereira;115.973.126-12;juliana.pereira@email.com;Corrente;0001;18089-4;153.22;Crédito Infinite;3595;33769.17
+699;Maria Almeida;195.449.915-64;maria.almeida@email.com;Universitária;0009;85470-1;0.0;Débito;7495;0.0
+700;João Santos;430.999.998-34;joão.santos@email.com;Corrente;0010;29902-6;2289.52;Crédito Platinum;9611;14345.66
+701;Carlos Pereira;746.363.612-97;carlos.pereira@email.com;Poupanca;0001;67015-8;0.0;Crédito Platinum;5864;13226.37
+702;Juliana Pereira;213.910.542-19;juliana.pereira@email.com;Universitária;0004;39121-5;0.0;Débito;9044;0.0
+703;Carlos Santos;533.259.295-12;carlos.santos@email.com;Universitária;0005;81023-6;0.0;Débito;3466;0.0
+704;Carlos Oliveira;753.171.774-55;carlos.oliveira@email.com;Poupanca;0006;41283-1;0.0;Crédito Black;4170;21755.91
+705;Beatriz Souza;396.102.280-27;beatriz.souza@email.com;Corrente;0009;64762-3;2703.24;Débito;4341;0.0
+706;Beatriz Nascimento;888.576.445-97;beatriz.nascimento@email.com;Corrente;0007;99125-7;2006.23;Crédito Black;3784;17301.08
+707;Beatriz Santos;649.944.837-25;beatriz.santos@email.com;Universitária;0007;37254-1;0.0;Crédito Black;7418;29984.93
+708;Ana Costa;859.879.529-71;ana.costa@email.com;Poupanca;0006;96159-8;0.0;Débito;3563;0.0
+709;Fernando Oliveira;150.719.619-93;fernando.oliveira@email.com;Corrente;0003;95181-5;1505.66;Crédito Platinum;5761;38613.59
+710;Juliana Almeida;997.782.756-18;juliana.almeida@email.com;Corrente;0002;25754-1;1684.59;Crédito Infinite;3137;5506.77
+711;Beatriz Santos;543.141.624-16;beatriz.santos@email.com;Corrente;0006;73618-2;3739.7;Débito;9669;0.0
+712;Ricardo Santos;622.317.562-45;ricardo.santos@email.com;Corrente;0010;21706-7;2733.91;Crédito Infinite;8554;9874.85
+713;Fernando Nascimento;321.746.616-33;fernando.nascimento@email.com;Corrente;0007;16505-0;221.89;Crédito Infinite;3136;43390.65
+714;Lucas Almeida;545.655.673-75;lucas.almeida@email.com;Poupanca;0002;53978-1;0.0;Crédito Platinum;2936;47690.93
+715;Patrícia Costa;991.552.102-49;patrícia.costa@email.com;Corrente;0004;39837-6;920.27;Crédito Black;7974;1252.59
+716;Maria Souza;969.448.356-96;maria.souza@email.com;Corrente;0007;44652-2;721.78;Débito;8307;0.0
+717;Beatriz Nascimento;582.638.428-44;beatriz.nascimento@email.com;Corrente;0008;24621-7;1091.31;Débito;9760;0.0
+718;Fernando Almeida;936.597.958-50;fernando.almeida@email.com;Universitária;0003;84524-3;0.0;Crédito Black;8922;45268.3
+719;Patrícia Oliveira;273.351.721-52;patrícia.oliveira@email.com;Corrente;0004;34548-0;1642.83;Débito;5457;0.0
+720;Beatriz Costa;116.755.161-81;beatriz.costa@email.com;Universitária;0003;56312-1;0.0;Crédito Infinite;5546;5447.7
+721;Beatriz Ferreira;878.778.329-33;beatriz.ferreira@email.com;Universitária;0008;37281-9;0.0;Débito;4654;0.0
+722;Beatriz Costa;299.467.502-59;beatriz.costa@email.com;Poupanca;0007;67619-6;0.0;Débito;9296;0.0
+723;Fernando Pereira;760.459.351-23;fernando.pereira@email.com;Corrente;0005;78347-2;4415.51;Crédito Platinum;4529;25166.28
+724;Patrícia Pereira;148.854.832-77;patrícia.pereira@email.com;Universitária;0005;67640-8;0.0;Crédito Black;8417;28309.53
+725;Beatriz Almeida;913.161.315-86;beatriz.almeida@email.com;Poupanca;0009;93189-3;0.0;Crédito Black;1204;29665.91
+726;Beatriz Costa;588.418.498-88;beatriz.costa@email.com;Universitária;0001;45519-5;0.0;Crédito Black;6869;45922.0
+727;Beatriz Ferreira;409.232.584-53;beatriz.ferreira@email.com;Poupanca;0009;26791-5;0.0;Crédito Infinite;8358;9701.38
+728;Patrícia Nascimento;669.706.835-72;patrícia.nascimento@email.com;Universitária;0006;70641-5;0.0;Crédito Infinite;4851;24053.27
+729;Juliana Souza;249.754.708-72;juliana.souza@email.com;Universitária;0004;76200-6;0.0;Débito;4925;0.0
+730;Beatriz Oliveira;705.550.343-20;beatriz.oliveira@email.com;Poupanca;0005;16490-6;0.0;Crédito Infinite;1747;39320.76
+731;Lucas Costa;609.585.331-36;lucas.costa@email.com;Corrente;0006;11448-7;4417.34;Crédito Platinum;7368;39281.12
+732;Juliana Silva;709.884.466-90;juliana.silva@email.com;Poupanca;0006;59380-8;0.0;Crédito Infinite;3448;8735.79
+733;Lucas Ferreira;958.349.831-92;lucas.ferreira@email.com;Corrente;0010;46610-7;3530.03;Crédito Infinite;7588;32892.57
+734;Ana Costa;946.418.251-29;ana.costa@email.com;Corrente;0003;44501-1;800.59;Débito;4897;0.0
+735;Ricardo Souza;129.470.800-55;ricardo.souza@email.com;Poupanca;0005;35427-9;0.0;Crédito Platinum;6225;41163.68
+736;João Ferreira;281.998.520-90;joão.ferreira@email.com;Poupanca;0003;12965-7;0.0;Débito;7680;0.0
+737;Juliana Nascimento;893.706.321-93;juliana.nascimento@email.com;Corrente;0005;19500-8;987.58;Débito;4737;0.0
+738;Lucas Oliveira;477.169.194-89;lucas.oliveira@email.com;Poupanca;0009;72411-7;0.0;Crédito Black;6420;20731.67
+739;Patrícia Pereira;835.795.491-28;patrícia.pereira@email.com;Corrente;0009;21276-6;4068.02;Crédito Platinum;9415;41008.48
+740;Ricardo Souza;341.642.667-25;ricardo.souza@email.com;Universitária;0010;90061-6;0.0;Crédito Black;4397;28219.65
+741;Maria Almeida;612.767.533-15;maria.almeida@email.com;Poupanca;0004;89857-2;0.0;Crédito Infinite;3838;12994.07
+742;Fernando Almeida;277.994.443-74;fernando.almeida@email.com;Corrente;0009;91800-6;2637.53;Crédito Platinum;6447;30075.42
+743;Ricardo Almeida;871.926.838-53;ricardo.almeida@email.com;Poupanca;0004;17445-1;0.0;Crédito Platinum;5737;16421.99
+744;Fernando Pereira;951.336.261-55;fernando.pereira@email.com;Corrente;0001;66572-5;1109.22;Débito;5650;0.0
+745;Fernando Silva;558.415.123-84;fernando.silva@email.com;Universitária;0003;49705-6;0.0;Débito;1928;0.0
+746;Ana Nascimento;773.742.740-34;ana.nascimento@email.com;Universitária;0010;67199-2;0.0;Crédito Infinite;2729;31741.95
+747;Maria Oliveira;126.562.357-11;maria.oliveira@email.com;Corrente;0003;48468-2;2854.95;Crédito Black;1271;24165.35
+748;João Oliveira;524.259.533-64;joão.oliveira@email.com;Universitária;0009;62705-9;0.0;Crédito Infinite;5624;12932.24
+749;Fernando Pereira;143.394.108-46;fernando.pereira@email.com;Poupanca;0001;55490-4;0.0;Crédito Black;7738;20905.74
+750;Ana Almeida;605.435.958-18;ana.almeida@email.com;Corrente;0007;16790-9;496.16;Débito;6855;0.0
+751;Beatriz Ferreira;191.970.513-12;beatriz.ferreira@email.com;Universitária;0003;53361-7;0.0;Crédito Platinum;9436;43424.01
+752;Patrícia Silva;471.267.966-36;patrícia.silva@email.com;Poupanca;0005;57497-1;0.0;Crédito Platinum;9320;21171.55
+753;Juliana Silva;601.589.865-93;juliana.silva@email.com;Corrente;0006;51679-6;4501.36;Crédito Black;4876;17762.21
+754;Carlos Almeida;194.535.339-23;carlos.almeida@email.com;Corrente;0006;41213-8;938.91;Débito;1705;0.0
+755;Patrícia Souza;478.895.301-84;patrícia.souza@email.com;Universitária;0009;25368-5;0.0;Débito;4614;0.0
+756;João Silva;673.653.498-97;joão.silva@email.com;Poupanca;0005;64658-2;0.0;Crédito Platinum;6299;40650.73
+757;Maria Nascimento;917.232.990-34;maria.nascimento@email.com;Poupanca;0005;93927-5;0.0;Crédito Infinite;2352;36820.75
+758;Ana Almeida;212.867.745-66;ana.almeida@email.com;Corrente;0004;26439-4;2721.87;Débito;1824;0.0
+759;Ana Souza;249.803.548-25;ana.souza@email.com;Poupanca;0006;97321-9;0.0;Débito;7288;0.0
+760;Ricardo Pereira;327.525.378-88;ricardo.pereira@email.com;Corrente;0008;98994-5;86.95;Crédito Platinum;1392;3895.76
+761;Lucas Almeida;970.681.558-32;lucas.almeida@email.com;Poupanca;0007;82090-0;0.0;Crédito Infinite;5199;47500.15
+762;Patrícia Almeida;315.785.608-83;patrícia.almeida@email.com;Corrente;0010;33673-5;715.6;Débito;8666;0.0
+763;Beatriz Silva;178.943.510-34;beatriz.silva@email.com;Corrente;0002;13301-5;2903.72;Crédito Black;2196;40455.51
+764;João Santos;916.863.604-80;joão.santos@email.com;Corrente;0004;57146-9;2874.01;Crédito Black;3324;9705.95
+765;Carlos Oliveira;503.299.167-25;carlos.oliveira@email.com;Poupanca;0006;61963-3;0.0;Crédito Infinite;7066;13908.52
+766;Lucas Ferreira;125.955.509-89;lucas.ferreira@email.com;Corrente;0005;91631-5;2271.74;Crédito Infinite;2511;24242.17
+767;Beatriz Nascimento;858.622.402-48;beatriz.nascimento@email.com;Universitária;0002;12588-4;0.0;Débito;6522;0.0
+768;João Souza;925.836.341-30;joão.souza@email.com;Corrente;0002;65086-8;1880.09;Crédito Platinum;9916;24013.23
+769;Patrícia Nascimento;963.971.331-71;patrícia.nascimento@email.com;Universitária;0003;39887-6;0.0;Crédito Infinite;2927;7514.01
+770;Carlos Costa;675.277.389-34;carlos.costa@email.com;Poupanca;0004;53065-6;0.0;Crédito Platinum;7028;14842.94
+771;Fernando Nascimento;605.526.924-24;fernando.nascimento@email.com;Poupanca;0002;27216-6;0.0;Crédito Infinite;4478;20640.79
+772;Ana Oliveira;806.497.362-72;ana.oliveira@email.com;Universitária;0009;68272-3;0.0;Débito;7339;0.0
+773;Maria Souza;379.297.465-18;maria.souza@email.com;Corrente;0005;29201-0;2689.44;Crédito Platinum;9142;2659.77
+774;Patrícia Nascimento;559.567.638-34;patrícia.nascimento@email.com;Universitária;0003;23784-5;0.0;Débito;6543;0.0
+775;Beatriz Almeida;229.748.372-88;beatriz.almeida@email.com;Corrente;0001;84091-5;4076.36;Crédito Platinum;8468;1012.64
+776;João Costa;571.248.733-81;joão.costa@email.com;Universitária;0003;11651-0;0.0;Crédito Black;3503;30545.43
+777;Juliana Oliveira;314.704.685-84;juliana.oliveira@email.com;Poupanca;0007;93938-7;0.0;Crédito Platinum;6453;40568.76
+778;Lucas Almeida;414.233.175-85;lucas.almeida@email.com;Universitária;0001;48403-9;0.0;Crédito Infinite;4654;28444.29
+779;Beatriz Almeida;786.203.430-83;beatriz.almeida@email.com;Poupanca;0004;33506-7;0.0;Crédito Infinite;6870;32095.0
+780;Beatriz Costa;140.754.512-82;beatriz.costa@email.com;Universitária;0010;52860-8;0.0;Débito;1966;0.0
+781;Ricardo Ferreira;528.717.983-28;ricardo.ferreira@email.com;Universitária;0009;41735-4;0.0;Crédito Black;2023;2007.69
+782;Carlos Santos;157.480.814-15;carlos.santos@email.com;Universitária;0007;58121-4;0.0;Crédito Platinum;3352;2665.02
+783;Fernando Ferreira;621.236.282-90;fernando.ferreira@email.com;Corrente;0006;80369-8;2413.22;Débito;1462;0.0
+784;Ana Almeida;111.270.740-63;ana.almeida@email.com;Poupanca;0008;69149-2;0.0;Débito;8100;0.0
+785;João Oliveira;628.739.266-95;joão.oliveira@email.com;Corrente;0010;43150-6;4820.69;Débito;9143;0.0
+786;Carlos Ferreira;848.470.771-62;carlos.ferreira@email.com;Universitária;0003;44272-2;0.0;Débito;6007;0.0
+787;Patrícia Pereira;483.853.494-76;patrícia.pereira@email.com;Poupanca;0002;39792-0;0.0;Crédito Black;5337;22673.1
+788;Carlos Ferreira;709.112.344-99;carlos.ferreira@email.com;Poupanca;0001;80037-5;0.0;Crédito Platinum;7700;24377.92
+789;Beatriz Almeida;820.722.794-84;beatriz.almeida@email.com;Poupanca;0008;35431-9;0.0;Débito;3643;0.0
+790;Fernando Pereira;668.886.161-99;fernando.pereira@email.com;Poupanca;0004;47587-2;0.0;Crédito Infinite;6493;24454.81
+791;João Silva;518.725.227-17;joão.silva@email.com;Universitária;0006;98626-8;0.0;Crédito Infinite;4485;16884.92
+792;Patrícia Costa;132.865.453-22;patrícia.costa@email.com;Universitária;0005;63532-3;0.0;Crédito Infinite;7486;40488.68
+793;Juliana Costa;263.875.491-13;juliana.costa@email.com;Corrente;0006;54823-9;1880.83;Crédito Black;4746;34133.07
+794;João Almeida;929.890.220-42;joão.almeida@email.com;Poupanca;0005;57961-5;0.0;Crédito Platinum;5032;22998.84
+795;Carlos Costa;112.972.287-93;carlos.costa@email.com;Poupanca;0003;60578-9;0.0;Crédito Black;4422;23952.31
+796;Carlos Oliveira;936.222.854-73;carlos.oliveira@email.com;Poupanca;0004;87345-5;0.0;Crédito Platinum;1087;16251.22
+797;Ana Costa;686.714.157-84;ana.costa@email.com;Universitária;0001;46878-5;0.0;Crédito Infinite;7768;31607.14
+798;Juliana Nascimento;272.792.123-22;juliana.nascimento@email.com;Poupanca;0009;86229-5;0.0;Débito;8287;0.0
+799;Lucas Santos;233.413.153-81;lucas.santos@email.com;Poupanca;0009;34372-0;0.0;Crédito Infinite;1299;48384.48
+800;João Oliveira;993.302.459-95;joão.oliveira@email.com;Corrente;0003;79530-9;1913.85;Débito;4481;0.0
+801;João Costa;828.304.123-13;joão.costa@email.com;Universitária;0007;32265-9;0.0;Crédito Platinum;7269;33467.59
+802;Juliana Almeida;919.376.937-50;juliana.almeida@email.com;Corrente;0002;87211-6;2171.31;Crédito Platinum;8209;11529.48
+803;Lucas Silva;362.513.168-95;lucas.silva@email.com;Poupanca;0005;73792-4;0.0;Crédito Platinum;7308;30188.07
+804;Beatriz Santos;487.280.701-11;beatriz.santos@email.com;Corrente;0009;29539-0;2399.65;Crédito Platinum;5829;39374.28
+805;Ricardo Costa;414.791.317-25;ricardo.costa@email.com;Poupanca;0006;76565-3;0.0;Crédito Black;3476;21658.85
+806;Ricardo Santos;136.377.353-32;ricardo.santos@email.com;Poupanca;0007;17225-6;0.0;Crédito Black;8468;15915.52
+807;Fernando Costa;435.716.276-15;fernando.costa@email.com;Universitária;0005;79568-4;0.0;Débito;8119;0.0
+808;Beatriz Costa;108.896.750-81;beatriz.costa@email.com;Universitária;0007;69324-0;0.0;Débito;4476;0.0
+809;Carlos Oliveira;870.960.153-33;carlos.oliveira@email.com;Poupanca;0010;80364-9;0.0;Crédito Infinite;7963;38213.57
+810;Lucas Oliveira;280.583.511-18;lucas.oliveira@email.com;Poupanca;0007;34339-4;0.0;Débito;2869;0.0
+811;Ana Pereira;736.525.589-28;ana.pereira@email.com;Universitária;0001;24790-2;0.0;Crédito Infinite;5794;29755.75
+812;Ana Souza;159.529.335-42;ana.souza@email.com;Universitária;0007;95563-2;0.0;Débito;5622;0.0
+813;Ricardo Souza;756.119.834-22;ricardo.souza@email.com;Universitária;0010;90157-6;0.0;Crédito Platinum;1725;20310.92
+814;Juliana Costa;320.799.253-68;juliana.costa@email.com;Universitária;0009;39286-0;0.0;Crédito Black;1753;46264.52
+815;Fernando Costa;397.985.478-24;fernando.costa@email.com;Universitária;0010;72604-0;0.0;Crédito Platinum;8256;10186.95
+816;Lucas Silva;718.418.624-15;lucas.silva@email.com;Corrente;0004;42640-3;1997.67;Crédito Platinum;6689;35333.73
+817;Carlos Costa;108.398.359-45;carlos.costa@email.com;Corrente;0005;98356-9;2739.58;Débito;8656;0.0
+818;Maria Costa;909.917.495-19;maria.costa@email.com;Corrente;0008;58390-4;2594.34;Crédito Infinite;8713;25910.49
+819;Juliana Santos;266.270.475-49;juliana.santos@email.com;Poupanca;0008;43351-2;0.0;Débito;2456;0.0
+820;Patrícia Santos;977.876.585-10;patrícia.santos@email.com;Universitária;0006;90495-8;0.0;Débito;4778;0.0
+821;Carlos Nascimento;535.721.155-66;carlos.nascimento@email.com;Poupanca;0002;90520-3;0.0;Crédito Infinite;1361;40186.35
+822;Juliana Santos;486.891.330-71;juliana.santos@email.com;Corrente;0006;63562-0;2984.38;Crédito Black;4270;10821.9
+823;Patrícia Pereira;980.206.181-33;patrícia.pereira@email.com;Corrente;0003;75326-0;321.4;Crédito Platinum;5432;30138.4
+824;Ana Silva;703.520.568-86;ana.silva@email.com;Poupanca;0006;55685-2;0.0;Crédito Black;1803;45638.89
+825;Ana Souza;119.332.995-86;ana.souza@email.com;Universitária;0006;33771-2;0.0;Crédito Black;2382;27759.8
+826;Ana Oliveira;550.890.859-77;ana.oliveira@email.com;Corrente;0005;43018-0;1037.19;Crédito Platinum;6046;28675.44
+827;Carlos Oliveira;483.339.793-23;carlos.oliveira@email.com;Poupanca;0010;71592-7;0.0;Crédito Black;5877;27658.09
+828;Patrícia Ferreira;172.523.371-18;patrícia.ferreira@email.com;Poupanca;0010;22724-6;0.0;Crédito Black;4058;34203.37
+829;Beatriz Souza;353.964.487-23;beatriz.souza@email.com;Poupanca;0007;52864-3;0.0;Débito;6855;0.0
+830;Maria Oliveira;686.462.662-25;maria.oliveira@email.com;Universitária;0009;88273-3;0.0;Crédito Infinite;9150;24646.77
+831;Maria Costa;524.783.524-57;maria.costa@email.com;Poupanca;0002;41194-4;0.0;Crédito Infinite;8557;17585.28
+832;Maria Silva;835.614.475-79;maria.silva@email.com;Universitária;0010;52895-1;0.0;Débito;7903;0.0
+833;Carlos Costa;849.975.781-49;carlos.costa@email.com;Universitária;0008;98670-6;0.0;Crédito Infinite;9860;19530.68
+834;Juliana Nascimento;980.763.756-28;juliana.nascimento@email.com;Poupanca;0004;87270-8;0.0;Débito;8148;0.0
+835;Ricardo Costa;541.741.443-34;ricardo.costa@email.com;Poupanca;0010;12484-3;0.0;Débito;8964;0.0
+836;Maria Santos;771.468.432-65;maria.santos@email.com;Poupanca;0008;77097-2;0.0;Crédito Black;2905;44319.73
+837;Patrícia Oliveira;218.325.669-34;patrícia.oliveira@email.com;Universitária;0010;68884-8;0.0;Débito;9888;0.0
+838;Patrícia Almeida;365.149.974-51;patrícia.almeida@email.com;Corrente;0006;35150-5;227.74;Crédito Black;3410;48492.91
+839;Lucas Ferreira;545.689.566-21;lucas.ferreira@email.com;Corrente;0009;73628-1;4165.47;Crédito Platinum;2689;12145.48
+840;Lucas Ferreira;759.349.989-29;lucas.ferreira@email.com;Corrente;0002;42650-5;3593.05;Crédito Platinum;4999;23332.49
+841;Carlos Santos;871.207.681-61;carlos.santos@email.com;Poupanca;0007;15994-4;0.0;Crédito Infinite;1003;41914.66
+842;Carlos Ferreira;188.499.624-89;carlos.ferreira@email.com;Universitária;0006;98343-3;0.0;Crédito Platinum;1552;28119.01
+843;Lucas Silva;350.616.171-68;lucas.silva@email.com;Corrente;0002;42217-2;3001.08;Crédito Black;5228;7095.68
+844;Ana Santos;415.191.289-42;ana.santos@email.com;Poupanca;0008;77544-5;0.0;Crédito Platinum;3943;26832.02
+845;Ricardo Ferreira;871.957.298-57;ricardo.ferreira@email.com;Universitária;0001;53918-3;0.0;Crédito Platinum;7544;41337.99
+846;Maria Oliveira;954.316.840-97;maria.oliveira@email.com;Corrente;0006;33384-9;2718.74;Crédito Infinite;1113;18805.13
+847;Fernando Pereira;124.572.993-78;fernando.pereira@email.com;Corrente;0009;97723-6;2935.74;Crédito Infinite;8357;17215.25
+848;Fernando Ferreira;888.522.305-42;fernando.ferreira@email.com;Corrente;0004;60600-5;3443.51;Débito;8590;0.0
+849;Carlos Silva;761.822.188-34;carlos.silva@email.com;Universitária;0009;64926-8;0.0;Crédito Black;7082;24401.44
+850;Ana Souza;874.769.699-21;ana.souza@email.com;Corrente;0004;46767-8;4681.27;Débito;7343;0.0
+851;Fernando Oliveira;355.458.191-28;fernando.oliveira@email.com;Corrente;0001;62548-9;1079.48;Crédito Black;7911;25295.7
+852;Maria Ferreira;115.930.448-83;maria.ferreira@email.com;Corrente;0005;23840-0;4633.7;Crédito Platinum;6684;6789.04
+853;Patrícia Santos;892.333.808-14;patrícia.santos@email.com;Corrente;0007;18327-0;4215.35;Crédito Infinite;5004;12153.8
+854;João Souza;358.727.827-29;joão.souza@email.com;Universitária;0010;41400-1;0.0;Débito;6894;0.0
+855;João Souza;507.592.825-33;joão.souza@email.com;Universitária;0005;20831-5;0.0;Crédito Infinite;3625;37489.54
+856;Juliana Oliveira;236.458.441-16;juliana.oliveira@email.com;Universitária;0007;44129-3;0.0;Crédito Infinite;9545;32700.49
+857;João Silva;565.459.360-75;joão.silva@email.com;Poupanca;0006;81377-1;0.0;Crédito Infinite;6643;43431.63
+858;Fernando Nascimento;900.453.260-74;fernando.nascimento@email.com;Poupanca;0004;39506-0;0.0;Crédito Infinite;4779;38829.35
+859;Juliana Almeida;145.854.436-18;juliana.almeida@email.com;Corrente;0006;77778-2;3348.19;Crédito Black;6865;12112.87
+860;Ana Ferreira;184.123.716-47;ana.ferreira@email.com;Universitária;0010;49468-5;0.0;Crédito Black;8191;32128.76
+861;Beatriz Oliveira;955.967.365-85;beatriz.oliveira@email.com;Universitária;0004;75467-9;0.0;Crédito Infinite;6980;42098.12
+862;Juliana Ferreira;988.675.286-68;juliana.ferreira@email.com;Poupanca;0003;35358-1;0.0;Crédito Black;2377;14680.67
+863;Ana Costa;351.872.232-72;ana.costa@email.com;Poupanca;0004;90863-1;0.0;Crédito Black;8580;48078.63
+864;Patrícia Pereira;353.335.777-55;patrícia.pereira@email.com;Corrente;0008;24508-3;3599.98;Crédito Platinum;4378;22933.26
+865;Patrícia Almeida;357.342.127-37;patrícia.almeida@email.com;Corrente;0008;74009-1;1225.36;Débito;8612;0.0
+866;Ricardo Silva;170.375.296-15;ricardo.silva@email.com;Corrente;0002;82717-3;1000.53;Crédito Infinite;5722;43624.64
+867;Juliana Oliveira;890.889.817-43;juliana.oliveira@email.com;Corrente;0004;93909-2;3156.56;Crédito Black;9341;24274.3
+868;Juliana Pereira;935.552.578-44;juliana.pereira@email.com;Universitária;0007;66732-1;0.0;Crédito Platinum;2085;9482.31
+869;Beatriz Pereira;994.942.484-80;beatriz.pereira@email.com;Universitária;0004;29757-2;0.0;Débito;8621;0.0
+870;Fernando Pereira;149.596.637-13;fernando.pereira@email.com;Corrente;0002;43901-7;4008.8;Crédito Platinum;8989;19868.99
+871;Carlos Nascimento;923.261.667-46;carlos.nascimento@email.com;Universitária;0010;56283-1;0.0;Crédito Black;7528;45723.96
+872;Ana Santos;488.657.542-59;ana.santos@email.com;Poupanca;0007;79877-6;0.0;Crédito Platinum;4641;45262.93
+873;Ana Souza;949.163.159-17;ana.souza@email.com;Poupanca;0001;97432-0;0.0;Crédito Black;9399;20652.55
+874;Carlos Pereira;334.764.175-91;carlos.pereira@email.com;Corrente;0006;96367-6;2919.79;Crédito Infinite;8240;45834.03
+875;Beatriz Nascimento;985.133.638-81;beatriz.nascimento@email.com;Corrente;0009;80360-5;3208.79;Crédito Platinum;9178;27156.43
+876;Ana Nascimento;813.578.804-37;ana.nascimento@email.com;Poupanca;0008;52977-0;0.0;Débito;1693;0.0
+877;Ana Souza;589.323.127-23;ana.souza@email.com;Poupanca;0001;57602-2;0.0;Crédito Black;9398;7543.28
+878;Fernando Pereira;152.155.856-27;fernando.pereira@email.com;Universitária;0007;74790-0;0.0;Crédito Platinum;6022;24597.01
+879;Patrícia Oliveira;747.668.136-59;patrícia.oliveira@email.com;Poupanca;0004;42980-8;0.0;Débito;8611;0.0
+880;Ricardo Nascimento;191.160.206-15;ricardo.nascimento@email.com;Corrente;0006;47148-8;4319.18;Débito;3515;0.0
+881;Beatriz Ferreira;582.206.326-45;beatriz.ferreira@email.com;Poupanca;0006;86912-0;0.0;Crédito Platinum;3100;49877.88
+882;Juliana Silva;187.975.915-60;juliana.silva@email.com;Corrente;0001;67278-1;959.46;Crédito Infinite;6501;20864.09
+883;Carlos Pereira;554.500.423-60;carlos.pereira@email.com;Poupanca;0005;20642-4;0.0;Crédito Infinite;9959;16147.54
+884;Maria Santos;917.744.349-35;maria.santos@email.com;Poupanca;0007;42422-4;0.0;Crédito Infinite;3660;24648.85
+885;Ana Costa;437.499.954-18;ana.costa@email.com;Universitária;0006;56059-3;0.0;Crédito Black;4570;3330.81
+886;Ricardo Costa;976.215.696-21;ricardo.costa@email.com;Poupanca;0010;37400-7;0.0;Crédito Infinite;9198;22532.26
+887;Fernando Santos;698.211.327-34;fernando.santos@email.com;Corrente;0007;88774-3;3316.33;Débito;2165;0.0
+888;Juliana Pereira;163.344.696-73;juliana.pereira@email.com;Universitária;0002;58989-0;0.0;Débito;8213;0.0
+889;Carlos Oliveira;268.417.470-56;carlos.oliveira@email.com;Corrente;0001;46130-0;122.58;Crédito Infinite;3178;21412.54
+890;Patrícia Silva;955.670.319-15;patrícia.silva@email.com;Corrente;0007;28971-8;247.66;Crédito Infinite;6070;9014.61
+891;Ana Santos;973.165.169-33;ana.santos@email.com;Corrente;0002;16170-4;4653.34;Crédito Platinum;3783;18304.76
+892;João Santos;640.847.306-51;joão.santos@email.com;Poupanca;0006;20540-3;0.0;Crédito Platinum;4530;49648.81
+893;Lucas Pereira;421.439.394-99;lucas.pereira@email.com;Universitária;0006;58696-3;0.0;Crédito Black;7015;17123.3
+894;João Costa;693.674.693-86;joão.costa@email.com;Poupanca;0002;60135-6;0.0;Crédito Infinite;3972;43218.09
+895;Patrícia Almeida;678.967.671-85;patrícia.almeida@email.com;Poupanca;0007;35785-5;0.0;Débito;4266;0.0
+896;João Nascimento;600.394.846-10;joão.nascimento@email.com;Poupanca;0008;33250-9;0.0;Crédito Black;1592;34395.76
+897;Ricardo Santos;962.628.613-38;ricardo.santos@email.com;Corrente;0009;34782-5;888.93;Crédito Infinite;4792;2001.28
+898;Maria Nascimento;111.814.934-42;maria.nascimento@email.com;Universitária;0005;49025-0;0.0;Crédito Infinite;6909;44142.47
+899;Maria Silva;685.705.282-29;maria.silva@email.com;Corrente;0001;29142-6;3575.86;Crédito Platinum;4623;33403.65
+900;João Souza;262.851.438-82;joão.souza@email.com;Corrente;0002;68119-8;831.81;Crédito Black;8287;40236.96
+901;Carlos Pereira;280.246.194-16;carlos.pereira@email.com;Poupanca;0005;80152-2;0.0;Débito;2592;0.0
+902;Beatriz Costa;247.169.154-40;beatriz.costa@email.com;Poupanca;0001;95040-4;0.0;Débito;5477;0.0
+903;Patrícia Nascimento;413.958.678-20;patrícia.nascimento@email.com;Universitária;0010;15514-0;0.0;Crédito Black;6220;36341.59
+904;João Costa;166.635.602-15;joão.costa@email.com;Universitária;0003;88472-8;0.0;Crédito Infinite;7439;26604.43
+905;Ricardo Costa;192.223.396-94;ricardo.costa@email.com;Universitária;0009;68155-5;0.0;Crédito Platinum;2155;13952.78
+906;Fernando Pereira;239.681.571-33;fernando.pereira@email.com;Corrente;0005;72195-8;751.47;Crédito Infinite;7496;16491.26
+907;Juliana Ferreira;712.300.906-87;juliana.ferreira@email.com;Universitária;0008;20272-9;0.0;Crédito Infinite;9228;11309.24
+908;Juliana Costa;203.620.833-25;juliana.costa@email.com;Poupanca;0007;66279-9;0.0;Débito;1116;0.0
+909;Carlos Pereira;315.393.188-88;carlos.pereira@email.com;Corrente;0006;81091-9;2681.59;Crédito Platinum;4804;33715.63
+910;Beatriz Costa;376.157.385-36;beatriz.costa@email.com;Poupanca;0007;44568-6;0.0;Débito;5812;0.0
+911;Ricardo Nascimento;734.134.849-61;ricardo.nascimento@email.com;Poupanca;0001;78124-0;0.0;Crédito Platinum;6391;25273.37
+912;Fernando Pereira;192.462.106-78;fernando.pereira@email.com;Corrente;0002;27634-3;2752.81;Crédito Platinum;5227;13516.94
+913;Ricardo Santos;260.705.285-69;ricardo.santos@email.com;Poupanca;0009;39860-0;0.0;Crédito Black;5498;27767.02
+914;João Costa;458.115.475-66;joão.costa@email.com;Corrente;0001;65121-4;2549.19;Crédito Infinite;9374;38906.15
+915;Carlos Almeida;939.490.703-38;carlos.almeida@email.com;Universitária;0008;43639-5;0.0;Crédito Black;5383;11580.92
+916;Lucas Souza;301.135.911-62;lucas.souza@email.com;Universitária;0006;62666-7;0.0;Crédito Platinum;4292;49464.32
+917;Beatriz Santos;343.911.730-89;beatriz.santos@email.com;Poupanca;0004;67303-6;0.0;Débito;7146;0.0
+918;Juliana Oliveira;764.993.580-11;juliana.oliveira@email.com;Poupanca;0002;97739-3;0.0;Crédito Infinite;8226;18759.27
+919;Fernando Ferreira;888.506.588-12;fernando.ferreira@email.com;Universitária;0008;28366-3;0.0;Crédito Platinum;3161;5689.8
+920;Maria Nascimento;565.459.654-87;maria.nascimento@email.com;Poupanca;0010;90921-4;0.0;Crédito Black;5554;13216.12
+921;Maria Pereira;160.964.491-26;maria.pereira@email.com;Poupanca;0002;93727-1;0.0;Crédito Platinum;3274;41885.87
+922;Juliana Souza;955.836.392-39;juliana.souza@email.com;Poupanca;0004;47942-8;0.0;Crédito Black;6309;18134.84
+923;Lucas Costa;423.146.738-50;lucas.costa@email.com;Corrente;0006;36145-4;2324.76;Crédito Infinite;6670;38815.65
+924;Ricardo Oliveira;202.624.517-50;ricardo.oliveira@email.com;Corrente;0006;60296-6;4408.61;Crédito Platinum;2734;2400.69
+925;Ana Almeida;678.659.970-63;ana.almeida@email.com;Poupanca;0010;48730-9;0.0;Crédito Black;8643;32771.29
+926;Ricardo Costa;325.326.847-72;ricardo.costa@email.com;Poupanca;0005;72722-4;0.0;Crédito Platinum;8209;12022.24
+927;João Costa;399.663.513-54;joão.costa@email.com;Poupanca;0006;59518-6;0.0;Crédito Infinite;7319;7435.26
+928;Carlos Silva;486.657.113-32;carlos.silva@email.com;Universitária;0002;35306-9;0.0;Débito;4400;0.0
+929;Beatriz Ferreira;629.421.610-81;beatriz.ferreira@email.com;Universitária;0003;34238-8;0.0;Débito;7799;0.0
+930;Beatriz Souza;501.514.102-58;beatriz.souza@email.com;Universitária;0008;68350-6;0.0;Débito;4194;0.0
+931;Ricardo Oliveira;962.986.971-89;ricardo.oliveira@email.com;Universitária;0008;82905-3;0.0;Crédito Black;6187;25657.7
+932;Ricardo Nascimento;997.598.848-41;ricardo.nascimento@email.com;Corrente;0009;35702-3;1879.56;Crédito Black;2273;19785.2
+933;João Almeida;671.116.685-75;joão.almeida@email.com;Corrente;0004;81458-0;2634.07;Crédito Infinite;6894;11973.0
+934;Lucas Almeida;848.553.353-13;lucas.almeida@email.com;Universitária;0007;45864-6;0.0;Crédito Black;5276;49833.42
+935;Beatriz Santos;966.391.173-19;beatriz.santos@email.com;Poupanca;0009;25848-6;0.0;Crédito Black;9947;47965.33
+936;Patrícia Almeida;337.245.877-98;patrícia.almeida@email.com;Corrente;0001;87095-8;1717.43;Crédito Black;5138;40447.69
+937;Juliana Santos;350.280.682-37;juliana.santos@email.com;Poupanca;0008;90306-1;0.0;Crédito Black;9970;10207.56
+938;Maria Silva;547.287.530-66;maria.silva@email.com;Poupanca;0007;80714-1;0.0;Débito;3112;0.0
+939;Fernando Nascimento;518.285.269-47;fernando.nascimento@email.com;Corrente;0004;26190-6;842.42;Débito;6342;0.0
+940;Patrícia Almeida;319.942.222-49;patrícia.almeida@email.com;Corrente;0009;68889-7;3455.37;Crédito Platinum;5286;13275.96
+941;Lucas Costa;819.651.968-94;lucas.costa@email.com;Corrente;0003;51336-1;74.64;Crédito Infinite;8003;8388.61
+942;Ricardo Almeida;124.359.426-45;ricardo.almeida@email.com;Universitária;0002;24708-0;0.0;Débito;1563;0.0
+943;Beatriz Nascimento;129.885.401-99;beatriz.nascimento@email.com;Poupanca;0003;22262-0;0.0;Crédito Platinum;2831;7744.39
+944;Lucas Almeida;339.964.286-75;lucas.almeida@email.com;Poupanca;0008;29745-4;0.0;Débito;4189;0.0
+945;Ricardo Oliveira;655.645.883-46;ricardo.oliveira@email.com;Poupanca;0010;76779-0;0.0;Crédito Black;9029;24264.2
+946;Lucas Nascimento;188.739.737-72;lucas.nascimento@email.com;Corrente;0002;99947-8;4675.87;Crédito Infinite;7250;36703.17
+947;Maria Almeida;534.490.413-42;maria.almeida@email.com;Corrente;0008;82217-5;1070.67;Crédito Infinite;5958;25772.45
+948;Fernando Oliveira;758.150.255-28;fernando.oliveira@email.com;Universitária;0005;63130-3;0.0;Crédito Infinite;8854;11345.69
+949;Beatriz Santos;667.630.748-18;beatriz.santos@email.com;Universitária;0005;37278-7;0.0;Crédito Black;3549;21284.53
+950;Ricardo Ferreira;441.328.995-67;ricardo.ferreira@email.com;Poupanca;0003;56700-9;0.0;Crédito Infinite;7432;36020.43
+951;Patrícia Santos;437.425.509-81;patrícia.santos@email.com;Universitária;0009;84962-1;0.0;Crédito Platinum;9618;13460.17
+952;Maria Oliveira;650.288.821-72;maria.oliveira@email.com;Poupanca;0007;79021-5;0.0;Débito;5377;0.0
+953;Carlos Ferreira;890.608.693-14;carlos.ferreira@email.com;Universitária;0010;81633-5;0.0;Crédito Black;4038;21380.82
+954;Carlos Souza;501.819.243-64;carlos.souza@email.com;Poupanca;0006;19397-6;0.0;Débito;2553;0.0
+955;Juliana Silva;566.476.598-16;juliana.silva@email.com;Corrente;0003;78388-8;64.67;Crédito Infinite;5502;3315.68
+956;Carlos Souza;500.832.402-93;carlos.souza@email.com;Universitária;0003;38416-7;0.0;Crédito Infinite;1469;14630.73
+957;Patrícia Ferreira;909.892.746-60;patrícia.ferreira@email.com;Universitária;0007;23022-0;0.0;Débito;6033;0.0
+958;Carlos Nascimento;578.691.197-17;carlos.nascimento@email.com;Corrente;0008;24858-3;3047.54;Crédito Infinite;5552;28503.02
+959;Carlos Ferreira;750.182.708-90;carlos.ferreira@email.com;Poupanca;0008;64486-8;0.0;Crédito Platinum;9199;29241.55
+960;Fernando Silva;856.505.547-72;fernando.silva@email.com;Poupanca;0002;37651-0;0.0;Crédito Platinum;8960;24326.13
+961;Juliana Nascimento;742.220.406-70;juliana.nascimento@email.com;Poupanca;0006;78907-9;0.0;Débito;5480;0.0
+962;Patrícia Silva;400.954.427-14;patrícia.silva@email.com;Universitária;0010;23007-6;0.0;Crédito Black;8031;14942.32
+963;Fernando Santos;258.842.764-91;fernando.santos@email.com;Corrente;0009;84827-9;3861.7;Crédito Infinite;9754;17698.38
+964;João Costa;374.413.995-26;joão.costa@email.com;Universitária;0007;85916-8;0.0;Crédito Infinite;2129;28800.92
+965;Fernando Nascimento;778.601.901-21;fernando.nascimento@email.com;Corrente;0005;34498-2;1737.85;Crédito Infinite;2531;20225.22
+966;Ana Oliveira;213.260.523-57;ana.oliveira@email.com;Universitária;0008;49394-2;0.0;Débito;8876;0.0
+967;Ricardo Silva;356.433.444-92;ricardo.silva@email.com;Poupanca;0003;19797-2;0.0;Crédito Black;8863;14661.66
+968;Beatriz Almeida;843.993.321-87;beatriz.almeida@email.com;Poupanca;0005;97180-5;0.0;Crédito Infinite;3472;41240.79
+969;Juliana Nascimento;939.643.663-85;juliana.nascimento@email.com;Universitária;0009;71834-8;0.0;Crédito Infinite;7974;39501.3
+970;João Costa;363.443.964-49;joão.costa@email.com;Corrente;0004;36411-1;4087.31;Crédito Platinum;8940;2676.42
+971;Lucas Santos;170.187.248-63;lucas.santos@email.com;Poupanca;0002;68482-8;0.0;Crédito Platinum;8352;27936.77
+972;Carlos Souza;559.343.754-22;carlos.souza@email.com;Corrente;0009;41007-6;462.38;Crédito Black;8790;32725.6
+973;Fernando Oliveira;230.319.615-79;fernando.oliveira@email.com;Corrente;0004;44541-8;904.71;Crédito Platinum;9519;24844.77
+974;Juliana Oliveira;701.718.827-77;juliana.oliveira@email.com;Poupanca;0004;37693-4;0.0;Crédito Platinum;9269;30804.75
+975;Juliana Souza;911.828.200-75;juliana.souza@email.com;Poupanca;0006;25343-7;0.0;Débito;2854;0.0
+976;Carlos Nascimento;982.119.329-29;carlos.nascimento@email.com;Poupanca;0002;35794-7;0.0;Crédito Infinite;5850;17134.27
+977;Maria Almeida;779.924.497-96;maria.almeida@email.com;Corrente;0005;47189-2;3954.57;Crédito Platinum;3663;24490.92
+978;João Souza;827.933.702-60;joão.souza@email.com;Poupanca;0006;31937-1;0.0;Crédito Black;2660;9694.24
+979;Patrícia Costa;879.220.936-17;patrícia.costa@email.com;Universitária;0008;68353-5;0.0;Crédito Infinite;6798;43096.43
+980;Carlos Silva;784.951.837-55;carlos.silva@email.com;Universitária;0003;54041-6;0.0;Débito;2607;0.0
+981;Juliana Oliveira;111.787.374-12;juliana.oliveira@email.com;Corrente;0010;71563-2;3874.7;Crédito Infinite;2569;15499.98
+982;João Silva;291.257.767-80;joão.silva@email.com;Corrente;0005;21016-6;1298.64;Crédito Infinite;8375;15137.32
+983;Carlos Silva;294.656.925-63;carlos.silva@email.com;Corrente;0002;64788-7;264.93;Crédito Black;7600;42807.53
+984;Maria Silva;108.239.443-14;maria.silva@email.com;Universitária;0006;59170-8;0.0;Crédito Infinite;2709;4139.77
+985;Maria Nascimento;741.496.448-44;maria.nascimento@email.com;Universitária;0005;81087-7;0.0;Crédito Infinite;1629;2693.98
+986;Lucas Almeida;945.530.971-60;lucas.almeida@email.com;Universitária;0007;94243-8;0.0;Débito;4072;0.0
+987;Maria Ferreira;538.117.874-75;maria.ferreira@email.com;Poupanca;0010;92511-5;0.0;Crédito Platinum;1333;8282.38
+988;João Silva;840.282.788-29;joão.silva@email.com;Poupanca;0005;34376-1;0.0;Débito;8579;0.0
+989;João Souza;940.969.944-34;joão.souza@email.com;Corrente;0001;78662-6;578.48;Crédito Black;3638;31345.46
+990;João Almeida;573.351.748-91;joão.almeida@email.com;Universitária;0009;95457-0;0.0;Crédito Infinite;8198;41906.48
+991;Ana Costa;106.927.696-55;ana.costa@email.com;Poupanca;0007;38065-4;0.0;Débito;9769;0.0
+992;Lucas Ferreira;683.374.990-75;lucas.ferreira@email.com;Corrente;0007;98165-2;790.55;Crédito Black;6326;31745.71
+993;Maria Silva;112.475.466-37;maria.silva@email.com;Corrente;0003;77481-4;4247.8;Débito;2580;0.0
+994;Beatriz Santos;522.358.179-42;beatriz.santos@email.com;Corrente;0006;88996-1;3.59;Débito;4812;0.0
+995;Juliana Almeida;444.695.727-72;juliana.almeida@email.com;Poupanca;0007;25129-6;0.0;Crédito Platinum;5212;21722.23
+996;Carlos Almeida;923.434.586-97;carlos.almeida@email.com;Corrente;0008;51030-9;2092.47;Débito;6432;0.0
+997;Patrícia Ferreira;413.516.611-56;patrícia.ferreira@email.com;Corrente;0004;38428-6;2098.77;Débito;4359;0.0
+998;João Costa;751.682.289-98;joão.costa@email.com;Corrente;0006;73915-0;619.12;Crédito Black;7094;43217.76
+999;Carlos Santos;868.180.483-23;carlos.santos@email.com;Universitária;0010;59429-1;0.0;Débito;4167;0.0
+1000;Juliana Ferreira;809.199.203-63;juliana.ferreira@email.com;Poupanca;0008;20677-5;0.0;Crédito Black;7537;37497.8
