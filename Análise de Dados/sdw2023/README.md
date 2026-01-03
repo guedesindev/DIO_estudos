@@ -10,15 +10,16 @@ Havia uma API criada anteriormente (2023) que serviria como fonte de dados dos c
 
 **TECNOLOGIAS UTILIZADAS**
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; align-items:center">
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img alt="TQDM" src="badge_tqdm_pillow.png" width=120>
 
 </div>
 
-Também utilizei o ![TQDM](https://github.com/tqdm/tqdm) para gerar a barra de progresso
+O módulo [tqdm](https://github.com/tqdm/tqdm)  foi utilizado para gerar a barra de progresso
 
 ### 📖 Minha Lista de Clientes
 
