@@ -13,9 +13,7 @@ Havia uma API criada anteriormente (2023) que serviria como fonte de dados dos c
 <div style="display: flex; justify-content: center">
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
@@ -78,7 +76,7 @@ Agora sim o teu ambiente pode ter as dependências instaladas.
 
  Agora pode executar os scripts
 
- 
+
  **Gerador de Clientes**
  ```python
      # WINDOWS
