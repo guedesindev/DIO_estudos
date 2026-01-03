@@ -76,6 +76,6 @@ Seguir os passos:
      python3 main.py
  ```
 
- E pronto, o arquivo news.csv é criado e pronto para enviar as mensagens para os clientes.
+ E pronto, o arquivo `news.csv` é criado e pronto para enviar as mensagens para os clientes.
 
  Espero que tenham gostado da minha abordagem.
